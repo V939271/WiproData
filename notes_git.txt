@@ -1,0 +1,42 @@
+
+1) What is GIT 
+
+Git is basically a version control system which allows you to manage multiple versions of documents, programs and project code. 
+
+When team of people working on same project, everytime we need to get working code to be ready, then git is the best solution to be provide.
+
+Git purely focuses on concurrent work, merging changes 
+
+Git hub contains 
+
+1) Working Directory : It is the actual directory of git repo
+
+2) Staging Area : This area contains the files ready to commit as all working code to be added to the staging area
+
+3) Local Repository : Allows you to commit the changes in your local system.
+
+4) Remote Repository : Allows you to commit changes in remote as authorized person can access. 
+
+How to add to staging area is
+
+git add .
+
+How to add to Local repository : 
+
+git commit -m "git notes updated"
+
+How to add the files to remote repository
+
+git push origin <branch_name> 
+
+assume, the branch name is main then 
+
+git push origin main
+
+git diff : Identifies the changes between old commit (vs) new commit
+
+git status : Used to identify the current repo status. 
+
+git checkout filename : Used to remove the changes before last commit. 
+
+git reset HEAD file_name : Used to unstage the file to working directory.

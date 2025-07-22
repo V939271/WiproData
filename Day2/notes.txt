@@ -1,0 +1,242 @@
+What is .NET
+
+Why .NET
+
+What is Namespace and Assembly
+
+What is GAC folder
+
+Components of .NET framework
+
+Compiling and Execution procedure of .NET application 
+_____________________________________________________________
+
+Microsoft introduced .NET for bridging the gap between 
+interoperability between applications. It is a foundation on
+which where we can build, design, develop and deploy the
+applications. 
+
+.NET framework contains more than 270+ language characterstics
+have been formed as a single unit, where we can use
+one language features within another language. 
+
+DllHell -> 
+
+Namespaces : Contains group of related classes and interfaces
+that which belongs to one common group. If you want to overcome the naming conflicts between classes, then we need the help of namespaces.
+
+Assembly : An assembly is a single deployable unit, that which 
+contains the information about project-name, version and 
+public-key token. 
+
+*** Assembly contains group of namespaces, and a single 
+namespace can be shared by multiple assemblies ***
+
+All the assemblies deployed are stored in GAC folder. 
+
+Global Assembly Cache 
+__________________________________________________________________
+
+Components of .NET framework 
+______________________________
+
+1) CLR (Common Language @ Runtime) 
+
+        -> Debugging
+
+	-> Exception Handling
+
+	-> Security 
+
+	-> Version Support 
+
+Managed Code : The code that which targets CLR known as managed code. 
+
+Unmanaged Code : The code that which does not support CLR specifications known as unmanaged code. 
+
+2) MSIL (Microsoft Intermediate Language) : When you compile any .NET application, at first instead of converting into CPU specific code, first its converted into MSIL. Then it becomes language neutral. 
+
+3) CTS (Common Type System) : All .NET framework languages needs to undergone common standards w.r.t. Data Types and Ranges. Example :if integer in C# takes  4 bytes, then VB.net integer needs to take 4 bytes and asp.net integer also needs to take 4 bytes. 
+
+4) CLI(Common Language Integration) : The code which is there in one .NET framework language, can be used in another .NET framework language. 
+
+5) JIT (Just-In Time) : Used to convert the MSIL into CPU specific format. 
+
+Compiling and Execution Procedure of .NET application : 
+________________________________________________________
+
+(i) When you compile any .NET application, at first instead of converting into CPU specific code, first its converted into MSIL.
+
+	either exe or dll file will be created. 
+
+Then it would be send to class loader. 
+
+There are 2 types of class loaders known as 
+
+	(a) Primordial Class Loader : Used to load all system defined classes example : Math Library, String library etc...
+
+	(b) Class Loader Objects : Used to load all user-defined class objects.
+
+In Class loader, we have JIT compiler, converts the byte code into CPU specific code. 
+
+Then it would be send to execution manager, which contains QUEUE of programs ready to run, where we can execute the program. 
+
+*** Before execution, it needs to undergone the security authentication ***
+
+Object Oriented Programming : 
+______________________________
+
+It is an approach that provides a way of modularizing programming, that which can be used to create small partition memory area for both data and objects, which are to be used as templates for creating copies of such modules on demand. 
+
+Object : An object is a real world entity, that which possess 3 characterstics known as 
+
+	(i) State
+
+	(ii) Behaviour
+
+	(iii) Identity 
+
+OOPS features : 
+_______________
+
+	(i) Encapsulation : Wrapping up of data and functions into a single unit known as encapusltion. 
+
+	(ii) Abstraction : Hiding the irrelevant details of an object, that do not contribute to its essential charactestics known as abstraction. 
+
+	*** Encapsulation focuses on showing the relevant details, where abstraction focuses on hiding the irrelevant details ***
+
+	(iii) Inheritance : Deriving a new entity from already existing entity known as inheritance, through inheritance we can reduce the size of the program. 
+
+	 (iv) Polymorphism : The ability to take more than one form known as polymorphism. 
+
+class : A class is a template or blueprint, that which contains combination of data members and member functions.  Members of the class can be accessable by using instance of the class. 
+
+class class_name 
+{
+    data members;
+    member functions;
+}
+
+System is the default namespace in .NET, we can add the namespace to the program as
+
+using System;
+
+Console.WriteLine() : used to display any value or message. 
+
+Console.WriteLine("Welcome to C# Programming...");
+
+Console.ReadLine() : Used to read data from the keyboard. 
+
+You can define method main() as 
+
+static void Main() {
+...
+...
+...
+}
+
+Access Modifiers : 
+___________________
+
+There are various access modifiers available as 
+
+(i) private : Allows you to access members within current class. 
+
+(ii) public : Allows you to access members in entire application. 
+
+(iii) protected : Allows you to access members within current/derived class.
+
+(iv) internal : Allows you to access members within all classes of current namespace. 
+
+(v) protected internal : Allows you to access members within all classes of current namespace and other namespace derived classes. 
+
+You can define a method as 
+
+<access-modifier> <return-type> method_name(par(s)) {
+...
+...
+...
+}
+
+if a method not returns any value, then use "void" keyword. 
+
+public void Show() {
+...
+...
+...
+}
+
+public int method_name(par(s) ){
+...
+...
+return 
+}
+
+Control Structures : Used to define the flow of the program. There are 2 types of control structures known as 
+
+(i) Branching
+
+(ii) Looping 
+
+if...else : Executes the statement(s) based on the condition. 
+
+	if (condition) {
+	   statement(s);
+	} else {
+	  statement(s);
+	}
+
+switch...case : Used to define the menu driven programs. 
+
+switch(choice) 
+{
+	case expr1 :
+		statement(s);
+		break;
+	case expr2 :
+		statement(s);
+		break;
+	case expr3 :
+		statement(s);
+		break;
+	...
+	...
+	...
+	default : 
+	     break;
+}
+
+
+
+You can create an object to the class, as 
+
+class_name obj = new class_name();
+
+Data Types : 
+_____________
+
+There are 2 types of data types as
+
+1) value types
+
+	int, float, char, bool, long, byte, single
+
+2) reference types 
+	string,object and user-defined classes 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

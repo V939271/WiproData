@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Wipro\\Day4\\AbstractExample2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95A4F0F6-920A-42AC-BA19-3D0118D3A0F2}|AbstractExample2\\AbstractExample2.csproj|e:\\wipro\\day4\\abstractexample2\\abstractexample2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95A4F0F6-920A-42AC-BA19-3D0118D3A0F2}|AbstractExample2\\AbstractExample2.csproj|solutionrelative:abstractexample2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95A4F0F6-920A-42AC-BA19-3D0118D3A0F2}|AbstractExample2\\AbstractExample2.csproj|e:\\wipro\\day4\\abstractexample2\\abstractexample2\\lion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95A4F0F6-920A-42AC-BA19-3D0118D3A0F2}|AbstractExample2\\AbstractExample2.csproj|solutionrelative:abstractexample2\\lion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95A4F0F6-920A-42AC-BA19-3D0118D3A0F2}|AbstractExample2\\AbstractExample2.csproj|e:\\wipro\\day4\\abstractexample2\\abstractexample2\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95A4F0F6-920A-42AC-BA19-3D0118D3A0F2}|AbstractExample2\\AbstractExample2.csproj|solutionrelative:abstractexample2\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95A4F0F6-920A-42AC-BA19-3D0118D3A0F2}|AbstractExample2\\AbstractExample2.csproj|e:\\wipro\\day4\\abstractexample2\\abstractexample2\\cow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95A4F0F6-920A-42AC-BA19-3D0118D3A0F2}|AbstractExample2\\AbstractExample2.csproj|solutionrelative:abstractexample2\\cow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95A4F0F6-920A-42AC-BA19-3D0118D3A0F2}|AbstractExample2\\AbstractExample2.csproj|e:\\wipro\\day4\\abstractexample2\\abstractexample2\\crocodile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95A4F0F6-920A-42AC-BA19-3D0118D3A0F2}|AbstractExample2\\AbstractExample2.csproj|solutionrelative:abstractexample2\\crocodile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cow.cs",
+              "DocumentMoniker": "E:\\Wipro\\Day4\\AbstractExample2\\AbstractExample2\\Cow.cs",
+              "RelativeDocumentMoniker": "AbstractExample2\\Cow.cs",
+              "ToolTip": "E:\\Wipro\\Day4\\AbstractExample2\\AbstractExample2\\Cow.cs",
+              "RelativeToolTip": "AbstractExample2\\Cow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T09:51:46.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Crocodile.cs",
+              "DocumentMoniker": "E:\\Wipro\\Day4\\AbstractExample2\\AbstractExample2\\Crocodile.cs",
+              "RelativeDocumentMoniker": "AbstractExample2\\Crocodile.cs",
+              "ToolTip": "E:\\Wipro\\Day4\\AbstractExample2\\AbstractExample2\\Crocodile.cs",
+              "RelativeToolTip": "AbstractExample2\\Crocodile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T09:47:23.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lion.cs",
+              "DocumentMoniker": "E:\\Wipro\\Day4\\AbstractExample2\\AbstractExample2\\Lion.cs",
+              "RelativeDocumentMoniker": "AbstractExample2\\Lion.cs",
+              "ToolTip": "E:\\Wipro\\Day4\\AbstractExample2\\AbstractExample2\\Lion.cs",
+              "RelativeToolTip": "AbstractExample2\\Lion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T09:43:21.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "E:\\Wipro\\Day4\\AbstractExample2\\AbstractExample2\\Animal.cs",
+              "RelativeDocumentMoniker": "AbstractExample2\\Animal.cs",
+              "ToolTip": "E:\\Wipro\\Day4\\AbstractExample2\\AbstractExample2\\Animal.cs",
+              "RelativeToolTip": "AbstractExample2\\Animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T09:40:38.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Wipro\\Day4\\AbstractExample2\\AbstractExample2\\Program.cs",
+              "RelativeDocumentMoniker": "AbstractExample2\\Program.cs",
+              "ToolTip": "E:\\Wipro\\Day4\\AbstractExample2\\AbstractExample2\\Program.cs",
+              "RelativeToolTip": "AbstractExample2\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T08:22:31.261Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

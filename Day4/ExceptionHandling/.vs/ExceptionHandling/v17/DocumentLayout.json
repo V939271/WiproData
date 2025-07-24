@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Wipro\\Day4\\ExceptionHandling\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{057A9C92-7CCD-43D1-AE0B-909752FCC64A}|ExceptionHandling\\ExceptionHandling.csproj|e:\\wipro\\day4\\exceptionhandling\\exceptionhandling\\votingexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{057A9C92-7CCD-43D1-AE0B-909752FCC64A}|ExceptionHandling\\ExceptionHandling.csproj|solutionrelative:exceptionhandling\\votingexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{057A9C92-7CCD-43D1-AE0B-909752FCC64A}|ExceptionHandling\\ExceptionHandling.csproj|e:\\wipro\\day4\\exceptionhandling\\exceptionhandling\\threx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{057A9C92-7CCD-43D1-AE0B-909752FCC64A}|ExceptionHandling\\ExceptionHandling.csproj|solutionrelative:exceptionhandling\\threx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{057A9C92-7CCD-43D1-AE0B-909752FCC64A}|ExceptionHandling\\ExceptionHandling.csproj|e:\\wipro\\day4\\exceptionhandling\\exceptionhandling\\voting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{057A9C92-7CCD-43D1-AE0B-909752FCC64A}|ExceptionHandling\\ExceptionHandling.csproj|solutionrelative:exceptionhandling\\voting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ExceptionHandling||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{057A9C92-7CCD-43D1-AE0B-909752FCC64A}|ExceptionHandling\\ExceptionHandling.csproj|e:\\wipro\\day4\\exceptionhandling\\exceptionhandling\\strexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{057A9C92-7CCD-43D1-AE0B-909752FCC64A}|ExceptionHandling\\ExceptionHandling.csproj|solutionrelative:exceptionhandling\\strexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{057A9C92-7CCD-43D1-AE0B-909752FCC64A}|ExceptionHandling\\ExceptionHandling.csproj|e:\\wipro\\day4\\exceptionhandling\\exceptionhandling\\quiz1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{057A9C92-7CCD-43D1-AE0B-909752FCC64A}|ExceptionHandling\\ExceptionHandling.csproj|solutionrelative:exceptionhandling\\quiz1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{057A9C92-7CCD-43D1-AE0B-909752FCC64A}|ExceptionHandling\\ExceptionHandling.csproj|e:\\wipro\\day4\\exceptionhandling\\exceptionhandling\\division.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{057A9C92-7CCD-43D1-AE0B-909752FCC64A}|ExceptionHandling\\ExceptionHandling.csproj|solutionrelative:exceptionhandling\\division.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{057A9C92-7CCD-43D1-AE0B-909752FCC64A}|ExceptionHandling\\ExceptionHandling.csproj|e:\\wipro\\day4\\exceptionhandling\\exceptionhandling\\arrayexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{057A9C92-7CCD-43D1-AE0B-909752FCC64A}|ExceptionHandling\\ExceptionHandling.csproj|solutionrelative:exceptionhandling\\arrayexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{057A9C92-7CCD-43D1-AE0B-909752FCC64A}|ExceptionHandling\\ExceptionHandling.csproj|e:\\wipro\\day4\\exceptionhandling\\exceptionhandling\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VotingException.cs",
+              "DocumentMoniker": "E:\\Wipro\\Day4\\ExceptionHandling\\ExceptionHandling\\VotingException.cs",
+              "RelativeDocumentMoniker": "ExceptionHandling\\VotingException.cs",
+              "ToolTip": "E:\\Wipro\\Day4\\ExceptionHandling\\ExceptionHandling\\VotingException.cs",
+              "RelativeToolTip": "ExceptionHandling\\VotingException.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T12:11:54.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Voting.cs",
+              "DocumentMoniker": "E:\\Wipro\\Day4\\ExceptionHandling\\ExceptionHandling\\Voting.cs",
+              "RelativeDocumentMoniker": "ExceptionHandling\\Voting.cs",
+              "ToolTip": "E:\\Wipro\\Day4\\ExceptionHandling\\ExceptionHandling\\Voting.cs",
+              "RelativeToolTip": "ExceptionHandling\\Voting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T12:08:52.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ThrEx.cs",
+              "DocumentMoniker": "E:\\Wipro\\Day4\\ExceptionHandling\\ExceptionHandling\\ThrEx.cs",
+              "RelativeDocumentMoniker": "ExceptionHandling\\ThrEx.cs",
+              "ToolTip": "E:\\Wipro\\Day4\\ExceptionHandling\\ExceptionHandling\\ThrEx.cs",
+              "RelativeToolTip": "ExceptionHandling\\ThrEx.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAcwCcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T11:57:33.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StrExample.cs",
+              "DocumentMoniker": "E:\\Wipro\\Day4\\ExceptionHandling\\ExceptionHandling\\StrExample.cs",
+              "RelativeDocumentMoniker": "ExceptionHandling\\StrExample.cs",
+              "ToolTip": "E:\\Wipro\\Day4\\ExceptionHandling\\ExceptionHandling\\StrExample.cs",
+              "RelativeToolTip": "ExceptionHandling\\StrExample.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T11:46:50.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Quiz1.cs",
+              "DocumentMoniker": "E:\\Wipro\\Day4\\ExceptionHandling\\ExceptionHandling\\Quiz1.cs",
+              "RelativeDocumentMoniker": "ExceptionHandling\\Quiz1.cs",
+              "ToolTip": "E:\\Wipro\\Day4\\ExceptionHandling\\ExceptionHandling\\Quiz1.cs",
+              "RelativeToolTip": "ExceptionHandling\\Quiz1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T11:37:16.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExceptionHandling",
+              "DocumentMoniker": "E:\\Wipro\\Day4\\ExceptionHandling\\ExceptionHandling\\ExceptionHandling.csproj",
+              "RelativeDocumentMoniker": "ExceptionHandling\\ExceptionHandling.csproj",
+              "ToolTip": "E:\\Wipro\\Day4\\ExceptionHandling\\ExceptionHandling\\ExceptionHandling.csproj",
+              "RelativeToolTip": "ExceptionHandling\\ExceptionHandling.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-24T11:32:14.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Division.cs",
+              "DocumentMoniker": "E:\\Wipro\\Day4\\ExceptionHandling\\ExceptionHandling\\Division.cs",
+              "RelativeDocumentMoniker": "ExceptionHandling\\Division.cs",
+              "ToolTip": "E:\\Wipro\\Day4\\ExceptionHandling\\ExceptionHandling\\Division.cs",
+              "RelativeToolTip": "ExceptionHandling\\Division.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAArwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T11:29:30.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ArrayExample.cs",
+              "DocumentMoniker": "E:\\Wipro\\Day4\\ExceptionHandling\\ExceptionHandling\\ArrayExample.cs",
+              "RelativeDocumentMoniker": "ExceptionHandling\\ArrayExample.cs",
+              "ToolTip": "E:\\Wipro\\Day4\\ExceptionHandling\\ExceptionHandling\\ArrayExample.cs",
+              "RelativeToolTip": "ExceptionHandling\\ArrayExample.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T11:14:23.594Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

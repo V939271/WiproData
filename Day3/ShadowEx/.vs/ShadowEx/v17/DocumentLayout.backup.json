@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Wipro\\Day3\\ShadowEx\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B03BBB0-7A04-4982-8154-4368305F2690}|ShadowEx\\ShadowEx.csproj|e:\\wipro\\day3\\shadowex\\shadowex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B03BBB0-7A04-4982-8154-4368305F2690}|ShadowEx\\ShadowEx.csproj|solutionrelative:shadowex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B03BBB0-7A04-4982-8154-4368305F2690}|ShadowEx\\ShadowEx.csproj|e:\\wipro\\day3\\shadowex\\shadowex\\second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B03BBB0-7A04-4982-8154-4368305F2690}|ShadowEx\\ShadowEx.csproj|solutionrelative:shadowex\\second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B03BBB0-7A04-4982-8154-4368305F2690}|ShadowEx\\ShadowEx.csproj|e:\\wipro\\day3\\shadowex\\shadowex\\first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B03BBB0-7A04-4982-8154-4368305F2690}|ShadowEx\\ShadowEx.csproj|solutionrelative:shadowex\\first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Second.cs",
+              "DocumentMoniker": "E:\\Wipro\\Day3\\ShadowEx\\ShadowEx\\Second.cs",
+              "RelativeDocumentMoniker": "ShadowEx\\Second.cs",
+              "ToolTip": "E:\\Wipro\\Day3\\ShadowEx\\ShadowEx\\Second.cs",
+              "RelativeToolTip": "ShadowEx\\Second.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T14:18:52.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "First.cs",
+              "DocumentMoniker": "E:\\Wipro\\Day3\\ShadowEx\\ShadowEx\\First.cs",
+              "RelativeDocumentMoniker": "ShadowEx\\First.cs",
+              "ToolTip": "E:\\Wipro\\Day3\\ShadowEx\\ShadowEx\\First.cs",
+              "RelativeToolTip": "ShadowEx\\First.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T14:16:22.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Wipro\\Day3\\ShadowEx\\ShadowEx\\Program.cs",
+              "RelativeDocumentMoniker": "ShadowEx\\Program.cs",
+              "ToolTip": "E:\\Wipro\\Day3\\ShadowEx\\ShadowEx\\Program.cs*",
+              "RelativeToolTip": "ShadowEx\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T14:15:25.04Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+E:\Wipro\Day3\DemoFirstLibrary\DemoSecondLibrary\obj\Debug\DemoSecondLibrary.csproj.AssemblyReference.cache
+E:\Wipro\Day3\DemoFirstLibrary\DemoSecondLibrary\obj\Debug\DemoSecondLibrary.csproj.CoreCompileInputs.cache
+E:\Wipro\Day3\DemoFirstLibrary\DemoSecondLibrary\bin\Debug\DemoSecondLibrary.dll
+E:\Wipro\Day3\DemoFirstLibrary\DemoSecondLibrary\bin\Debug\DemoSecondLibrary.pdb
+E:\Wipro\Day3\DemoFirstLibrary\DemoSecondLibrary\obj\Debug\DemoSecondLibrary.dll
+E:\Wipro\Day3\DemoFirstLibrary\DemoSecondLibrary\obj\Debug\DemoSecondLibrary.pdb

@@ -1,0 +1,6 @@
+E:\Wipro\Day3\ClalculationLibrary\ClalculationLibrary\bin\Debug\ClalculationLibrary.dll
+E:\Wipro\Day3\ClalculationLibrary\ClalculationLibrary\bin\Debug\ClalculationLibrary.pdb
+E:\Wipro\Day3\ClalculationLibrary\ClalculationLibrary\obj\Debug\ClalculationLibrary.csproj.AssemblyReference.cache
+E:\Wipro\Day3\ClalculationLibrary\ClalculationLibrary\obj\Debug\ClalculationLibrary.csproj.CoreCompileInputs.cache
+E:\Wipro\Day3\ClalculationLibrary\ClalculationLibrary\obj\Debug\ClalculationLibrary.dll
+E:\Wipro\Day3\ClalculationLibrary\ClalculationLibrary\obj\Debug\ClalculationLibrary.pdb

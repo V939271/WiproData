@@ -1,0 +1,8 @@
+E:\Wipro\Day3\ObjectMethods\ObjectMethods\bin\Debug\ObjectMethods.exe.config
+E:\Wipro\Day3\ObjectMethods\ObjectMethods\bin\Debug\ObjectMethods.exe
+E:\Wipro\Day3\ObjectMethods\ObjectMethods\bin\Debug\ObjectMethods.pdb
+E:\Wipro\Day3\ObjectMethods\ObjectMethods\obj\Debug\ObjectMethods.csproj.AssemblyReference.cache
+E:\Wipro\Day3\ObjectMethods\ObjectMethods\obj\Debug\ObjectMethods.csproj.CoreCompileInputs.cache
+E:\Wipro\Day3\ObjectMethods\ObjectMethods\obj\Debug\ObjectMethods.exe
+E:\Wipro\Day3\ObjectMethods\ObjectMethods\obj\Debug\ObjectMethods.pdb
+E:\Wipro\Day3\ObjectMethods\ObjectMethods\obj\Debug\ObjectMethods.exe.config

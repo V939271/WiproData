@@ -1,0 +1,75 @@
+1) Multi-Dimensional Arrays
+
+2) Jagged Arrays
+
+3) Type of parameters (in, ref, out, params)
+
+4) OOPS concepts 
+
+_________________________________________________________________________
+
+Two-dimensional Array in c#
+____________________________
+
+A two-dimensional array consists elements in terms of rows and columns. 
+
+You can declare two dimensional array as 
+
+int[,] x = new int[2,3]; means
+
+x is an array that contains 2 rows and 3 columns. 
+
+Jagged Arrays : 
+______________
+
+Jagged arrays consists of multiple arrays as its element. However, unlike multidimensional arrays each array inside jagged array.
+int[][] jaggedArray  new int[2][];
+
+[][] -> Represents jagged array
+
+[2][] -> Represents no.of arrays. 
+
+here jagged array can store 2 array elements in that. 
+
+syntax : 
+_________
+
+int[][] jaggedArray = new int[2][];
+
+int[] x = new int[]{12,5,22};
+int[] y = new int[]{55,11,55};
+
+jaggedArray[0]=x;
+jaggedArray[1]=y;
+
+There are 2 types of memories known as 
+
+(i) stack
+(ii) heap 
+
+*** value types will be stored in stack memory and reference types will be stored in heap memory ***
+
+static void Main() {
+  int n = 5;
+  int m = 7;
+  show(n,m);
+}
+
+void Show(int p, int q) {
+  ...
+  ...
+}
+
+synmbol table, that which contains entire history as passing method, calling method passing parameter variable names (vs) method variable names and allowing copying/sharing values to the variables specified. 
+
+When you declare a string, at first it checks the value is available in heap memory or not (as strings are stored in some part of heap known as *** String Constant Pool ***) as if the value is available, then it points to the same memory location, if the value is not available then it would be stored in different memory location) 
+
+
+
+
+
+
+
+
+
+

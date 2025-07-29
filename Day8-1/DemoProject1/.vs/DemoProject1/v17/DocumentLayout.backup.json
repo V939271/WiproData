@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Wipro\\Day8-1\\DemoProject1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9DF961CB-8B1E-4C1D-A978-0FB0315CF63C}|..\\DemoProject1.Tests\\DemoProject1.Tests.csproj|e:\\wipro\\day8-1\\demoproject1.tests\\employtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC0E6E7F-2030-4BD8-9B0D-795B1483B442}|DemoProject1\\DemoProject1.csproj|e:\\wipro\\day8-1\\demoproject1\\demoproject1\\employ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC0E6E7F-2030-4BD8-9B0D-795B1483B442}|DemoProject1\\DemoProject1.csproj|solutionrelative:demoproject1\\employ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DF961CB-8B1E-4C1D-A978-0FB0315CF63C}|..\\DemoProject1.Tests\\DemoProject1.Tests.csproj|e:\\wipro\\day8-1\\demoproject1.tests\\datatest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC0E6E7F-2030-4BD8-9B0D-795B1483B442}|DemoProject1\\DemoProject1.csproj|e:\\wipro\\day8-1\\demoproject1\\demoproject1\\employdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC0E6E7F-2030-4BD8-9B0D-795B1483B442}|DemoProject1\\DemoProject1.csproj|solutionrelative:demoproject1\\employdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployTest.cs",
+              "DocumentMoniker": "E:\\Wipro\\Day8-1\\DemoProject1.Tests\\EmployTest.cs",
+              "RelativeDocumentMoniker": "..\\DemoProject1.Tests\\EmployTest.cs",
+              "ToolTip": "E:\\Wipro\\Day8-1\\DemoProject1.Tests\\EmployTest.cs",
+              "RelativeToolTip": "..\\DemoProject1.Tests\\EmployTest.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T10:52:24.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataTest.cs",
+              "DocumentMoniker": "E:\\Wipro\\Day8-1\\DemoProject1.Tests\\DataTest.cs",
+              "RelativeDocumentMoniker": "..\\DemoProject1.Tests\\DataTest.cs",
+              "ToolTip": "E:\\Wipro\\Day8-1\\DemoProject1.Tests\\DataTest.cs",
+              "RelativeToolTip": "..\\DemoProject1.Tests\\DataTest.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T10:32:32.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployDao.cs",
+              "DocumentMoniker": "E:\\Wipro\\Day8-1\\DemoProject1\\DemoProject1\\EmployDao.cs",
+              "RelativeDocumentMoniker": "DemoProject1\\EmployDao.cs",
+              "ToolTip": "E:\\Wipro\\Day8-1\\DemoProject1\\DemoProject1\\EmployDao.cs",
+              "RelativeToolTip": "DemoProject1\\EmployDao.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA6wA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T10:22:56.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employ.cs",
+              "DocumentMoniker": "E:\\Wipro\\Day8-1\\DemoProject1\\DemoProject1\\Employ.cs",
+              "RelativeDocumentMoniker": "DemoProject1\\Employ.cs",
+              "ToolTip": "E:\\Wipro\\Day8-1\\DemoProject1\\DemoProject1\\Employ.cs",
+              "RelativeToolTip": "DemoProject1\\Employ.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAuwB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T10:17:03.4Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

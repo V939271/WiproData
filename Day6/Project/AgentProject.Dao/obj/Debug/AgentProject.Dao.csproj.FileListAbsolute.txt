@@ -1,0 +1,9 @@
+E:\Wipro\Day6\Project\AgentProject.Dao\bin\Debug\AgentProject.Dao.dll
+E:\Wipro\Day6\Project\AgentProject.Dao\bin\Debug\AgentProject.Dao.pdb
+E:\Wipro\Day6\Project\AgentProject.Dao\bin\Debug\AgentProject.Models.dll
+E:\Wipro\Day6\Project\AgentProject.Dao\bin\Debug\AgentProject.Models.pdb
+E:\Wipro\Day6\Project\AgentProject.Dao\obj\Debug\AgentProject.Dao.csproj.AssemblyReference.cache
+E:\Wipro\Day6\Project\AgentProject.Dao\obj\Debug\AgentProject.Dao.csproj.CoreCompileInputs.cache
+E:\Wipro\Day6\Project\AgentProject.Dao\obj\Debug\AgentPro.50662BCC.Up2Date
+E:\Wipro\Day6\Project\AgentProject.Dao\obj\Debug\AgentProject.Dao.dll
+E:\Wipro\Day6\Project\AgentProject.Dao\obj\Debug\AgentProject.Dao.pdb

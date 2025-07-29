@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Wipro\\Day5\\Project\\EmployProject.Models\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC01DFD5-A89A-416F-92B3-6EC5ECF7FCD0}|..\\EmployProject.Main\\EmployProject.Main.csproj|e:\\wipro\\day5\\project\\employproject.main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B0CF5A5-4F51-465C-B875-70C862E3B763}|EmployProject.Models\\EmployProject.Models.csproj|E:\\Wipro\\Day5\\Project\\EmployProject.Models\\employproject.models\\employ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B0CF5A5-4F51-465C-B875-70C862E3B763}|EmployProject.Models\\EmployProject.Models.csproj|solutionrelative:employproject.models\\employ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDAFCE5C-4855-452C-B071-F7E746A3492F}|..\\EmployProject.Dao\\EmployProject.Dao.csproj|e:\\wipro\\day5\\project\\employproject.dao\\iemploydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDAFCE5C-4855-452C-B071-F7E746A3492F}|..\\EmployProject.Dao\\EmployProject.Dao.csproj|e:\\wipro\\day5\\project\\employproject.dao\\employdaoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62C63F9C-C94A-4204-8541-01BF8F03BB5C}|..\\EmployProject.Exceptions\\EmployProject.Exceptions.csproj|e:\\wipro\\day5\\project\\employproject.exceptions\\employexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00639ED3-A517-4C15-ADC0-6A3AF435FEF7}|..\\EmployProject.Bal\\EmployProject.Bal.csproj|e:\\wipro\\day5\\project\\employproject.bal\\employbal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Wipro\\Day5\\Project\\EmployProject.Main\\Program.cs",
+              "RelativeDocumentMoniker": "..\\EmployProject.Main\\Program.cs",
+              "ToolTip": "E:\\Wipro\\Day5\\Project\\EmployProject.Main\\Program.cs",
+              "RelativeToolTip": "..\\EmployProject.Main\\Program.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAA9wJcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T11:08:38.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployBal.cs",
+              "DocumentMoniker": "E:\\Wipro\\Day5\\Project\\EmployProject.Bal\\EmployBal.cs",
+              "RelativeDocumentMoniker": "..\\EmployProject.Bal\\EmployBal.cs",
+              "ToolTip": "E:\\Wipro\\Day5\\Project\\EmployProject.Bal\\EmployBal.cs",
+              "RelativeToolTip": "..\\EmployProject.Bal\\EmployBal.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAmwEkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T11:07:25.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployException.cs",
+              "DocumentMoniker": "E:\\Wipro\\Day5\\Project\\EmployProject.Exceptions\\EmployException.cs",
+              "RelativeDocumentMoniker": "..\\EmployProject.Exceptions\\EmployException.cs",
+              "ToolTip": "E:\\Wipro\\Day5\\Project\\EmployProject.Exceptions\\EmployException.cs",
+              "RelativeToolTip": "..\\EmployProject.Exceptions\\EmployException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T11:06:27.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployDaoImpl.cs",
+              "DocumentMoniker": "E:\\Wipro\\Day5\\Project\\EmployProject.Dao\\EmployDaoImpl.cs",
+              "RelativeDocumentMoniker": "..\\EmployProject.Dao\\EmployDaoImpl.cs",
+              "ToolTip": "E:\\Wipro\\Day5\\Project\\EmployProject.Dao\\EmployDaoImpl.cs",
+              "RelativeToolTip": "..\\EmployProject.Dao\\EmployDaoImpl.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAiwEoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T11:05:41.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IEmployDao.cs",
+              "DocumentMoniker": "E:\\Wipro\\Day5\\Project\\EmployProject.Dao\\IEmployDao.cs",
+              "RelativeDocumentMoniker": "..\\EmployProject.Dao\\IEmployDao.cs",
+              "ToolTip": "E:\\Wipro\\Day5\\Project\\EmployProject.Dao\\IEmployDao.cs",
+              "RelativeToolTip": "..\\EmployProject.Dao\\IEmployDao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T11:03:07.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employ.cs",
+              "DocumentMoniker": "E:\\Wipro\\Day5\\Project\\EmployProject.Models\\EmployProject.Models\\Employ.cs",
+              "RelativeDocumentMoniker": "EmployProject.Models\\Employ.cs",
+              "ToolTip": "E:\\Wipro\\Day5\\Project\\EmployProject.Models\\EmployProject.Models\\Employ.cs",
+              "RelativeToolTip": "EmployProject.Models\\Employ.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAywCgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T11:01:05.381Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

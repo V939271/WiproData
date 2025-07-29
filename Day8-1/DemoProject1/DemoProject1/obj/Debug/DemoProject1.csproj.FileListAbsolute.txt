@@ -1,0 +1,6 @@
+E:\Wipro\Day8-1\DemoProject1\DemoProject1\bin\Debug\DemoProject1.dll
+E:\Wipro\Day8-1\DemoProject1\DemoProject1\bin\Debug\DemoProject1.pdb
+E:\Wipro\Day8-1\DemoProject1\DemoProject1\obj\Debug\DemoProject1.csproj.AssemblyReference.cache
+E:\Wipro\Day8-1\DemoProject1\DemoProject1\obj\Debug\DemoProject1.csproj.CoreCompileInputs.cache
+E:\Wipro\Day8-1\DemoProject1\DemoProject1\obj\Debug\DemoProject1.dll
+E:\Wipro\Day8-1\DemoProject1\DemoProject1\obj\Debug\DemoProject1.pdb

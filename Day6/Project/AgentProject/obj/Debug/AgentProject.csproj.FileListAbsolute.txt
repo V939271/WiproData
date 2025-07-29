@@ -1,0 +1,15 @@
+E:\Wipro\Day6\Project\AgentProject\obj\Debug\AgentProject.csproj.AssemblyReference.cache
+E:\Wipro\Day6\Project\AgentProject\obj\Debug\AgentProject.csproj.CoreCompileInputs.cache
+E:\Wipro\Day6\Project\AgentProject\bin\Debug\AgentProject.exe.config
+E:\Wipro\Day6\Project\AgentProject\bin\Debug\AgentProject.exe
+E:\Wipro\Day6\Project\AgentProject\bin\Debug\AgentProject.pdb
+E:\Wipro\Day6\Project\AgentProject\bin\Debug\AgentProject.Dao.dll
+E:\Wipro\Day6\Project\AgentProject\bin\Debug\AgentProject.Models.dll
+E:\Wipro\Day6\Project\AgentProject\bin\Debug\AgentProject.Dao.pdb
+E:\Wipro\Day6\Project\AgentProject\bin\Debug\AgentProject.Models.pdb
+E:\Wipro\Day6\Project\AgentProject\obj\Debug\AgentPro.23C6F2D8.Up2Date
+E:\Wipro\Day6\Project\AgentProject\obj\Debug\AgentProject.exe
+E:\Wipro\Day6\Project\AgentProject\obj\Debug\AgentProject.pdb
+E:\Wipro\Day6\Project\AgentProject\bin\Debug\AgentProject.Util.dll
+E:\Wipro\Day6\Project\AgentProject\bin\Debug\AgentProject.Util.pdb
+E:\Wipro\Day6\Project\AgentProject\obj\Debug\AgentProject.exe.config

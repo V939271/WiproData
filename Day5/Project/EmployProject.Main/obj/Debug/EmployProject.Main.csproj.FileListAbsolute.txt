@@ -1,0 +1,16 @@
+E:\Wipro\Day5\Project\EmployProject.Main\bin\Debug\EmployProject.Main.exe.config
+E:\Wipro\Day5\Project\EmployProject.Main\bin\Debug\EmployProject.Main.exe
+E:\Wipro\Day5\Project\EmployProject.Main\bin\Debug\EmployProject.Main.pdb
+E:\Wipro\Day5\Project\EmployProject.Main\bin\Debug\EmployProject.Bal.dll
+E:\Wipro\Day5\Project\EmployProject.Main\bin\Debug\EmployProject.Exceptions.dll
+E:\Wipro\Day5\Project\EmployProject.Main\bin\Debug\EmployProject.Models.dll
+E:\Wipro\Day5\Project\EmployProject.Main\bin\Debug\EmployProject.Dao.dll
+E:\Wipro\Day5\Project\EmployProject.Main\bin\Debug\EmployProject.Bal.pdb
+E:\Wipro\Day5\Project\EmployProject.Main\bin\Debug\EmployProject.Exceptions.pdb
+E:\Wipro\Day5\Project\EmployProject.Main\bin\Debug\EmployProject.Models.pdb
+E:\Wipro\Day5\Project\EmployProject.Main\bin\Debug\EmployProject.Dao.pdb
+E:\Wipro\Day5\Project\EmployProject.Main\obj\Debug\EmployProject.Main.csproj.AssemblyReference.cache
+E:\Wipro\Day5\Project\EmployProject.Main\obj\Debug\EmployProject.Main.csproj.CoreCompileInputs.cache
+E:\Wipro\Day5\Project\EmployProject.Main\obj\Debug\EmployPr.BA77B38C.Up2Date
+E:\Wipro\Day5\Project\EmployProject.Main\obj\Debug\EmployProject.Main.exe
+E:\Wipro\Day5\Project\EmployProject.Main\obj\Debug\EmployProject.Main.pdb

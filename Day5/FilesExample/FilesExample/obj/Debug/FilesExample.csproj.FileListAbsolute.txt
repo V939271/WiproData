@@ -1,0 +1,8 @@
+E:\Wipro\Day5\FilesExample\FilesExample\bin\Debug\FilesExample.exe.config
+E:\Wipro\Day5\FilesExample\FilesExample\bin\Debug\FilesExample.exe
+E:\Wipro\Day5\FilesExample\FilesExample\bin\Debug\FilesExample.pdb
+E:\Wipro\Day5\FilesExample\FilesExample\obj\Debug\FilesExample.csproj.AssemblyReference.cache
+E:\Wipro\Day5\FilesExample\FilesExample\obj\Debug\FilesExample.csproj.CoreCompileInputs.cache
+E:\Wipro\Day5\FilesExample\FilesExample\obj\Debug\FilesExample.exe
+E:\Wipro\Day5\FilesExample\FilesExample\obj\Debug\FilesExample.pdb
+E:\Wipro\Day5\FilesExample\FilesExample\obj\Debug\FilesExample.exe.config

@@ -1,0 +1,7 @@
+E:\Wipro\Day10\Solids\DipWithout\bin\Debug\DipWithout.exe.config
+E:\Wipro\Day10\Solids\DipWithout\bin\Debug\DipWithout.exe
+E:\Wipro\Day10\Solids\DipWithout\bin\Debug\DipWithout.pdb
+E:\Wipro\Day10\Solids\DipWithout\obj\Debug\DipWithout.csproj.AssemblyReference.cache
+E:\Wipro\Day10\Solids\DipWithout\obj\Debug\DipWithout.csproj.CoreCompileInputs.cache
+E:\Wipro\Day10\Solids\DipWithout\obj\Debug\DipWithout.exe
+E:\Wipro\Day10\Solids\DipWithout\obj\Debug\DipWithout.pdb

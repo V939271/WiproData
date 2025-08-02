@@ -1,0 +1,7 @@
+E:\Wipro\Day10\Solids\LspWIth\obj\Debug\LspWIth.csproj.AssemblyReference.cache
+E:\Wipro\Day10\Solids\LspWIth\obj\Debug\LspWIth.csproj.CoreCompileInputs.cache
+E:\Wipro\Day10\Solids\LspWIth\bin\Debug\LspWIth.exe.config
+E:\Wipro\Day10\Solids\LspWIth\bin\Debug\LspWIth.exe
+E:\Wipro\Day10\Solids\LspWIth\bin\Debug\LspWIth.pdb
+E:\Wipro\Day10\Solids\LspWIth\obj\Debug\LspWIth.exe
+E:\Wipro\Day10\Solids\LspWIth\obj\Debug\LspWIth.pdb

@@ -1,0 +1,7 @@
+E:\Wipro\Day10\Solids\OcpWith\obj\Debug\OcpWith.csproj.AssemblyReference.cache
+E:\Wipro\Day10\Solids\OcpWith\obj\Debug\OcpWith.csproj.CoreCompileInputs.cache
+E:\Wipro\Day10\Solids\OcpWith\bin\Debug\OcpWith.exe.config
+E:\Wipro\Day10\Solids\OcpWith\bin\Debug\OcpWith.exe
+E:\Wipro\Day10\Solids\OcpWith\bin\Debug\OcpWith.pdb
+E:\Wipro\Day10\Solids\OcpWith\obj\Debug\OcpWith.exe
+E:\Wipro\Day10\Solids\OcpWith\obj\Debug\OcpWith.pdb

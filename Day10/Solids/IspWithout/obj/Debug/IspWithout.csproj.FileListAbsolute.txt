@@ -1,0 +1,8 @@
+E:\Wipro\Day10\Solids\IspWithout\bin\Debug\IspWithout.exe.config
+E:\Wipro\Day10\Solids\IspWithout\bin\Debug\IspWithout.exe
+E:\Wipro\Day10\Solids\IspWithout\bin\Debug\IspWithout.pdb
+E:\Wipro\Day10\Solids\IspWithout\obj\Debug\IspWithout.csproj.AssemblyReference.cache
+E:\Wipro\Day10\Solids\IspWithout\obj\Debug\IspWithout.csproj.CoreCompileInputs.cache
+E:\Wipro\Day10\Solids\IspWithout\obj\Debug\IspWithout.exe
+E:\Wipro\Day10\Solids\IspWithout\obj\Debug\IspWithout.pdb
+E:\Wipro\Day10\Solids\IspWithout\obj\Debug\IspWithout.exe.config

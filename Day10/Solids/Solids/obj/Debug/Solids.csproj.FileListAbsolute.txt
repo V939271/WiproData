@@ -1,0 +1,7 @@
+E:\Wipro\Day10\Solids\Solids\bin\Debug\Solids.exe.config
+E:\Wipro\Day10\Solids\Solids\bin\Debug\Solids.exe
+E:\Wipro\Day10\Solids\Solids\bin\Debug\Solids.pdb
+E:\Wipro\Day10\Solids\Solids\obj\Debug\Solids.csproj.AssemblyReference.cache
+E:\Wipro\Day10\Solids\Solids\obj\Debug\Solids.csproj.CoreCompileInputs.cache
+E:\Wipro\Day10\Solids\Solids\obj\Debug\Solids.exe
+E:\Wipro\Day10\Solids\Solids\obj\Debug\Solids.pdb

@@ -1,0 +1,6 @@
+E:\Wipro-Assignment\Day-10(project)\ReportSystem\ReportSystem\bin\Debug\ReportSystem.dll
+E:\Wipro-Assignment\Day-10(project)\ReportSystem\ReportSystem\bin\Debug\ReportSystem.pdb
+E:\Wipro-Assignment\Day-10(project)\ReportSystem\ReportSystem\obj\Debug\ReportSystem.csproj.AssemblyReference.cache
+E:\Wipro-Assignment\Day-10(project)\ReportSystem\ReportSystem\obj\Debug\ReportSystem.csproj.CoreCompileInputs.cache
+E:\Wipro-Assignment\Day-10(project)\ReportSystem\ReportSystem\obj\Debug\ReportSystem.dll
+E:\Wipro-Assignment\Day-10(project)\ReportSystem\ReportSystem\obj\Debug\ReportSystem.pdb

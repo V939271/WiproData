@@ -1,0 +1,5 @@
+E:\Wipro-Assignment\Day-10(project)\ReportSystem.Tests\obj\Debug\net8.0\ReportSystem.Tests.csproj.AssemblyReference.cache
+E:\Wipro-Assignment\Day-10(project)\ReportSystem.Tests\obj\Debug\net8.0\ReportSystem.Tests.GeneratedMSBuildEditorConfig.editorconfig
+E:\Wipro-Assignment\Day-10(project)\ReportSystem.Tests\obj\Debug\net8.0\ReportSystem.Tests.AssemblyInfoInputs.cache
+E:\Wipro-Assignment\Day-10(project)\ReportSystem.Tests\obj\Debug\net8.0\ReportSystem.Tests.AssemblyInfo.cs
+E:\Wipro-Assignment\Day-10(project)\ReportSystem.Tests\obj\Debug\net8.0\ReportSystem.Tests.csproj.CoreCompileInputs.cache

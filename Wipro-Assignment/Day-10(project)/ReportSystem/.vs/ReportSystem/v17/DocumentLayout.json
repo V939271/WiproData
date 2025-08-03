@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Wipro-Assignment\\Day-10(project)\\ReportSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB18905D-2520-48F1-99F0-512B2E80DF29}|ReportSystem\\ReportSystem.csproj|E:\\Wipro-Assignment\\Day-10(project)\\ReportSystem\\reportsystem\\ireport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB18905D-2520-48F1-99F0-512B2E80DF29}|ReportSystem\\ReportSystem.csproj|solutionrelative:reportsystem\\ireport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB18905D-2520-48F1-99F0-512B2E80DF29}|ReportSystem\\ReportSystem.csproj|E:\\Wipro-Assignment\\Day-10(project)\\ReportSystem\\reportsystem\\reportgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB18905D-2520-48F1-99F0-512B2E80DF29}|ReportSystem\\ReportSystem.csproj|solutionrelative:reportsystem\\reportgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85AD6D83-97B2-499E-BF87-8DE6EFA7FDE3}|..\\ReportSystem.Tests\\ReportSystem.Tests.csproj|e:\\wipro-assignment\\day-10(project)\\reportsystem.tests\\solidtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SolidTests.cs",
+              "DocumentMoniker": "E:\\Wipro-Assignment\\Day-10(project)\\ReportSystem.Tests\\SolidTests.cs",
+              "RelativeDocumentMoniker": "..\\ReportSystem.Tests\\SolidTests.cs",
+              "ToolTip": "E:\\Wipro-Assignment\\Day-10(project)\\ReportSystem.Tests\\SolidTests.cs",
+              "RelativeToolTip": "..\\ReportSystem.Tests\\SolidTests.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T12:51:02.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReportGenerator.cs",
+              "DocumentMoniker": "E:\\Wipro-Assignment\\Day-10(project)\\ReportSystem\\ReportSystem\\ReportGenerator.cs",
+              "RelativeDocumentMoniker": "ReportSystem\\ReportGenerator.cs",
+              "ToolTip": "E:\\Wipro-Assignment\\Day-10(project)\\ReportSystem\\ReportSystem\\ReportGenerator.cs",
+              "RelativeToolTip": "ReportSystem\\ReportGenerator.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T12:23:31.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IReport.cs",
+              "DocumentMoniker": "E:\\Wipro-Assignment\\Day-10(project)\\ReportSystem\\ReportSystem\\IReport.cs",
+              "RelativeDocumentMoniker": "ReportSystem\\IReport.cs",
+              "ToolTip": "E:\\Wipro-Assignment\\Day-10(project)\\ReportSystem\\ReportSystem\\IReport.cs",
+              "RelativeToolTip": "ReportSystem\\IReport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T12:21:10.927Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

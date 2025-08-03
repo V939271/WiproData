@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Wipro-Assignment\\Day-9(Project)\\UserManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CAEB3BB-D524-4BB6-BB13-61A3F3E6E267}|..\\UserManagement.Tests\\UserManagement.Tests.csproj|e:\\wipro-assignment\\day-9(project)\\usermanagement.tests\\authtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CAEB3BB-D524-4BB6-BB13-61A3F3E6E267}|..\\UserManagement.Tests\\UserManagement.Tests.csproj|e:\\wipro-assignment\\day-9(project)\\usermanagement.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F21C368-2B0F-4809-87F9-497008B8E7B8}|UserManagement\\UserManagement.csproj|e:\\wipro-assignment\\day-9(project)\\usermanagement\\usermanagement\\safeauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F21C368-2B0F-4809-87F9-497008B8E7B8}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\safeauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F21C368-2B0F-4809-87F9-497008B8E7B8}|UserManagement\\UserManagement.csproj|e:\\wipro-assignment\\day-9(project)\\usermanagement\\usermanagement\\nlog.config.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1F21C368-2B0F-4809-87F9-497008B8E7B8}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\nlog.config.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F21C368-2B0F-4809-87F9-497008B8E7B8}|UserManagement\\UserManagement.csproj|e:\\wipro-assignment\\day-9(project)\\usermanagement\\usermanagement\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F21C368-2B0F-4809-87F9-497008B8E7B8}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F21C368-2B0F-4809-87F9-497008B8E7B8}|UserManagement\\UserManagement.csproj|e:\\wipro-assignment\\day-9(project)\\usermanagement\\usermanagement\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F21C368-2B0F-4809-87F9-497008B8E7B8}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F21C368-2B0F-4809-87F9-497008B8E7B8}|UserManagement\\UserManagement.csproj|e:\\wipro-assignment\\day-9(project)\\usermanagement\\usermanagement\\cryptoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F21C368-2B0F-4809-87F9-497008B8E7B8}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\cryptoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F21C368-2B0F-4809-87F9-497008B8E7B8}|UserManagement\\UserManagement.csproj|e:\\wipro-assignment\\day-9(project)\\usermanagement\\usermanagement\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F21C368-2B0F-4809-87F9-497008B8E7B8}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthTests.cs",
+              "DocumentMoniker": "E:\\Wipro-Assignment\\Day-9(Project)\\UserManagement.Tests\\AuthTests.cs",
+              "RelativeDocumentMoniker": "..\\UserManagement.Tests\\AuthTests.cs",
+              "ToolTip": "E:\\Wipro-Assignment\\Day-9(Project)\\UserManagement.Tests\\AuthTests.cs",
+              "RelativeToolTip": "..\\UserManagement.Tests\\AuthTests.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T12:03:43.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "E:\\Wipro-Assignment\\Day-9(Project)\\UserManagement.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\UserManagement.Tests\\UnitTest1.cs",
+              "ToolTip": "E:\\Wipro-Assignment\\Day-9(Project)\\UserManagement.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "..\\UserManagement.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T12:00:05.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SafeAuthService.cs",
+              "DocumentMoniker": "E:\\Wipro-Assignment\\Day-9(Project)\\UserManagement\\UserManagement\\SafeAuthService.cs",
+              "RelativeDocumentMoniker": "UserManagement\\SafeAuthService.cs",
+              "ToolTip": "E:\\Wipro-Assignment\\Day-9(Project)\\UserManagement\\UserManagement\\SafeAuthService.cs",
+              "RelativeToolTip": "UserManagement\\SafeAuthService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAuwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T11:57:31.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "nlog.config.xml",
+              "DocumentMoniker": "E:\\Wipro-Assignment\\Day-9(Project)\\UserManagement\\UserManagement\\nlog.config.xml",
+              "RelativeDocumentMoniker": "UserManagement\\nlog.config.xml",
+              "ToolTip": "E:\\Wipro-Assignment\\Day-9(Project)\\UserManagement\\UserManagement\\nlog.config.xml",
+              "RelativeToolTip": "UserManagement\\nlog.config.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-08-03T11:54:07.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "E:\\Wipro-Assignment\\Day-9(Project)\\UserManagement\\UserManagement\\AuthService.cs",
+              "RelativeDocumentMoniker": "UserManagement\\AuthService.cs",
+              "ToolTip": "E:\\Wipro-Assignment\\Day-9(Project)\\UserManagement\\UserManagement\\AuthService.cs",
+              "RelativeToolTip": "UserManagement\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T11:27:00.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "E:\\Wipro-Assignment\\Day-9(Project)\\UserManagement\\UserManagement\\UserRepository.cs",
+              "RelativeDocumentMoniker": "UserManagement\\UserRepository.cs",
+              "ToolTip": "E:\\Wipro-Assignment\\Day-9(Project)\\UserManagement\\UserManagement\\UserRepository.cs",
+              "RelativeToolTip": "UserManagement\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T11:24:45.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CryptoService.cs",
+              "DocumentMoniker": "E:\\Wipro-Assignment\\Day-9(Project)\\UserManagement\\UserManagement\\CryptoService.cs",
+              "RelativeDocumentMoniker": "UserManagement\\CryptoService.cs",
+              "ToolTip": "E:\\Wipro-Assignment\\Day-9(Project)\\UserManagement\\UserManagement\\CryptoService.cs",
+              "RelativeToolTip": "UserManagement\\CryptoService.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAowFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T11:22:57.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\Wipro-Assignment\\Day-9(Project)\\UserManagement\\UserManagement\\User.cs",
+              "RelativeDocumentMoniker": "UserManagement\\User.cs",
+              "ToolTip": "E:\\Wipro-Assignment\\Day-9(Project)\\UserManagement\\UserManagement\\User.cs",
+              "RelativeToolTip": "UserManagement\\User.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T11:21:00.117Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0"?>
+<nlog xmlns="http://www.nlog-project.org/schemas/NLog.xsd"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+	<!-- ========== TARGETS ========== -->
+	<targets>
+		<!-- Writes to /logs/app.log next to your EXE or test DLL -->
+		<target xsi:type="File"
+				name="logfile"
+				fileName="logs/app.log"
+				layout="${longdate}|${level:uppercase=true}|${message}|${exception:format=tostring}" />
+	</targets>
+
+	<!-- ========== RULES ========== -->
+	<rules>
+		<!-- Everything Info and above goes to logfile -->
+		<logger minlevel="Info" writeTo="logfile" />
+	</rules>
+</nlog>

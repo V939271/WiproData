@@ -1,0 +1,43 @@
+<html>
+    <head>
+        <script>
+            var questions = [
+                "1. What is HTML",
+                "2. What is Javascript",
+                "3. What is CSS",
+                "4. What is Object Oriented Programming...",
+                "5. What is Typescript",
+                "6. Explain about React"
+            ]
+            var questionNo = 0;
+            var totalQuestions = questions.length;
+            function load() {
+                document.getElementById("question").innerHTML = questions[questionNo];
+            }
+            function prevQuestion() {
+                questionNo--;
+                if (questionNo < 0) {
+                    questionNo = 0;
+                    alert("This is First Question...")
+                }
+                load();
+            }
+            function nextQuestion() {
+                questionNo++;
+                if (questionNo == totalQuestions) {
+                    questionNo = totalQuestions - 1;
+                    alert("No Questions after this...");
+                }
+                load();
+            }
+        </script>
+    </head>
+<body onload="load()">
+    <center>
+        <span id="question"></span> <br/><br/>
+        <input type="button" value="Next" onclick="nextQuestion()" /> 
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <input type="button" value="Previous" onclick="prevQuestion()" />
+    </center>
+</body>
+</html>

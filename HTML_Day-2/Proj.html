@@ -1,0 +1,187 @@
+<html>
+    <head>
+        <script>
+            function showInfo() {
+                var info="";
+                // alert(frmLeaveApp.empId.value);
+                info+="Employ Id  " +frmLeaveApp.empId.value + "<br/>";
+                info+="Manager Name " +frmLeaveApp.managerId.value + "<Br/>";
+                info+="Leave-Start Date " +frmLeaveApp.leaveStartDate.value + "<br/>";
+                info+="Leave-End Date " +frmLeaveApp.leaveEndDate.value + "<br/>";
+                info+="No.of Days  " +frmLeaveApp.noOfDays.value +"<br/>";
+                info+="Leave Type  " +frmLeaveApp.leaveType.value +"<br/>";
+                info+="Leave Status " +frmLeaveApp.leaveStatus.value + "<br/>";
+                info+="Applied On " +frmLeaveApp.appliedOn.value + "<br/>";
+                info+="Manager Comments  " +frmLeaveApp.managerComments.value + "<br/>";
+                document.getElementById("info").innerHTML = info;
+            }
+
+            function tat() {
+                var today = new Date();
+                var leaveStartDate = frmLeaveApp.leaveStartDate.value;
+                var leaveEndDate = frmLeaveApp.leaveEndDate.value;
+                var ms1 = Date.parse(leaveEndDate) - today.getTime();
+                var days1 = ms1 / (1000 * 60 * 60 * 24);
+                // alert(days1);
+                if (days1 <= 0) {
+                    document.getElementById("errorLeaveEndDate").innerHTML =
+                    "Leave-EndDate cannot be Yesterdays Date...";
+                    return;
+                } else {
+                    document.getElementById("errorLeaveEndDate").innerHTML ="";
+                }
+                var ms = Date.parse(leaveEndDate) - Date.parse(leaveStartDate);
+                var days = ms / (1000 * 60 * 60 * 24);
+                if (days < 0) {
+                    document.getElementById("errorLeaveEndDate").innerHTML =
+                    "Leave-StartDate cannot be Greater than Leave End Date...";
+                    return;
+                } else {
+                    document.getElementById("errorLeaveEndDate").innerHTML ="";
+                }
+                days++;
+                frmLeaveApp.noOfDays.value = days;
+                document.getElementById("btnApply").style.display = "inline";
+               // alert(days);
+            }
+
+            function validateLeaveStartDate() {
+                var today = new Date();
+                var leaveStartDate = frmLeaveApp.leaveStartDate.value;
+                var ms = Date.parse(leaveStartDate) - today.getTime();
+                var days = ms / (1000 * 60 * 60 * 24);
+                if (days <= 0) {
+                    document.getElementById("errorStartDate").innerHTML = 
+                    "Leave Start-Date Cannot be Yesterday's Date...";
+                    // alert("Leave Start-Date Cannot be Yesterday's Date...");
+                    return;
+                } else {
+                    document.getElementById("errorStartDate").innerHTML = "";
+                }
+            }
+            function loadData() {
+                var today = new Date();
+                var strDate = today.toISOString().substring(0,10);
+                document.getElementById("btnApply").style.display = "none";
+                frmLeaveApp.appliedOn.value = strDate;
+            }
+            var employs= [
+                "1. Rajesh","2. Venkata","3. Pallavi",
+                "4. Komal","5. Uday","6. Ganesh"
+            ]
+             var managers = ["Abhijeet","Vinod","Harsh",
+                "Megha"];
+            
+        </script>  
+    </head>
+<body onload="loadData()">
+    <form name="frmLeaveApp">
+        <table border="3" align="center">
+            <tr>
+                <th colspan="2">Leave Application Form</th>
+            </tr>
+            <tr>
+                <th>Employ Id</th>
+                <td>
+                    <select name="empId">
+                        <option value="Select Employ">select Employs</option>
+                        <script>
+                            for(var i=0;i<employs.length;i++) {
+                        document.writeln("<option value=" +employs[i] +">"
+                              + employs[i] +"</option>" );
+                            }
+                        </script>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <th>Manager Id</th>
+                <td>
+                    <select name="managerId">
+                        <option value="Select Manager">Select Manager</option>
+                        <script>
+                            for(var v in managers) {
+                        document.writeln("<option value="+managers[v]+">" +
+                            managers[v] + "</option>");
+                            }
+                        </script>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <th>Leave Start-Date</th>
+                <td>
+                    <input type="date" name="leaveStartDate"
+                        onblur="validateLeaveStartDate()" />
+                    <span id="errorStartDate" style="color: red;"></span>
+                 </td>
+            </tr>
+            <tr>
+                <th>
+                    Leave End-Date
+                </th>
+                <td>
+                    <input type="date" name="leaveEndDate" onblur="tat()" />
+                    <span id="errorLeaveEndDate" style="color: red;"></span>
+                </td>
+            </tr>
+            <tr>
+                <th>No.of Days</th>
+                <td>
+                    <input type="number" name="noOfDays" readonly />
+                </td>
+            </tr>
+            <tr>
+                <th>
+                    Leave Type
+                </th>
+                <td>
+                    <select name="leaveType">
+                        <option value="EL">EL</option>
+                        <option value="PL">PL</option>
+                        <option value="ML">ML</option>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <th>
+                    Leave Status
+                </th>
+                <td>
+                    <select name="leaveStatus">
+                        <option value="PENDING">PENDING</option>
+                        <option value="ACCEPTED">ACCEPTED</option>
+                        <option value="REJECTED">REJECTED</option>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <th>
+                    Applied On
+                </th>
+                <td>
+                    <input type="text" name="appliedOn" readonly />
+                </td>
+            </tr>
+            <tr>
+                <th>
+                    Manager Comments
+                </th>
+                <td>
+                    <input type="text" name="managerComments" />
+                </td>
+            </tr>
+            <tr>
+                <th colspan="2">
+                    <input type="button" value="Apply Leave" id="btnApply"
+                        onclick="showInfo()" /> 
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <input type="reset" value="Reset" />
+                </th>
+                
+            </tr>
+        </table>
+        <span id="info"></span>
+    </form>
+</body>
+</html>

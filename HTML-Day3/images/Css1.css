@@ -1,0 +1,17 @@
+p 
+{
+    color : blue;
+}
+
+div 
+{
+    p
+    {
+        color: yellow;
+    }
+    span 
+    {
+        color : purple;
+    }
+    color: orange;    
+}

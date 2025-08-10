@@ -1,0 +1,65 @@
+<html>
+    <head>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" />
+    </head>
+<body>
+    <div class="container">
+        <h2>Panel with Accordion Example</h2>
+        <div class="panel-group" id="accordion">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h4 class="panel-title">
+                        <a href="#collapseOne" data-parent="accordion" data-toggle="collapse">
+                            This is First Item in Accordion
+                        </a>
+                    </h4>
+                </div>
+                <div id="collapseOne" class="panel-collapse collapse in">
+                    <div class="panel-body">
+                        Welcome to All...<br/>
+                        We are doing with BootStrap Process...
+                    </div>
+                </div>
+            </div>
+            <div class="panel panel-primary">
+                <div class="panel-heading">
+                    <h4 class="panel-title">
+                        <a href="#collapseTwo" data-toggle="collapse" 
+                                data-parent="#accordion">
+                            This is Second Item in Accordion    
+                        </a>
+                    </h4>
+                </div>
+                <div id="collapseTwo" class="panel-collapse collapse">
+                    <div class="panel-body">
+                        Hi This class is For Java 5 Batch...<br/>
+                        Timing at 8 to 10 AM <br/>
+                        Thank You All...
+                    </div>
+                </div>
+                <div class="panel panel-success">
+                    <div class="panel-heading">
+                        <h4 class="panel-title">
+                            <a data-toggle="collapse" 
+                                data-parent="#accordion" href="#collapseThree">
+                                This is Third Item in Accordion...
+                            </a>
+                        </h4>
+                    </div>
+                    <div class="panel-body">
+                        <div id="collapseThree" class="panel-collapse collapse">
+                            <div class="panel-body">
+                                Right Now BootStrap Accordion Examples Going ON.
+                                    <br/>
+                                Thank You All <br/> All the best
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

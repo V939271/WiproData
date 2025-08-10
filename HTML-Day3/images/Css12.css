@@ -1,0 +1,22 @@
+body
+{
+	background-color : #017890;
+}
+
+div.MainForm 
+{
+    background : none repeat scroll 0 0 #7DC24B;
+    border : 5px solid gray;
+    color : white;	
+    font-family : "DejaVu Sans",Times,Serif;
+    font-weight : bold;
+    margin : 10px auto;
+    padding : 10px;
+    text-align : center;
+	width : 400px;	
+}
+.all
+{
+	font-weight : bold;
+	color : #0C69F3;
+}

@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\venka\\WiproData\\BankProjectCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C63E760-1472-4886-A2AC-13040AD9F505}|BankProjectCore\\BankProjectCore.csproj|c:\\users\\venka\\wiprodata\\bankprojectcore\\bankprojectcore\\controllers\\loginscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C63E760-1472-4886-A2AC-13040AD9F505}|BankProjectCore\\BankProjectCore.csproj|solutionrelative:bankprojectcore\\controllers\\loginscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C63E760-1472-4886-A2AC-13040AD9F505}|BankProjectCore\\BankProjectCore.csproj|c:\\users\\venka\\wiprodata\\bankprojectcore\\bankprojectcore\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C63E760-1472-4886-A2AC-13040AD9F505}|BankProjectCore\\BankProjectCore.csproj|solutionrelative:bankprojectcore\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C63E760-1472-4886-A2AC-13040AD9F505}|BankProjectCore\\BankProjectCore.csproj|c:\\users\\venka\\wiprodata\\bankprojectcore\\bankprojectcore\\models\\bankdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C63E760-1472-4886-A2AC-13040AD9F505}|BankProjectCore\\BankProjectCore.csproj|solutionrelative:bankprojectcore\\models\\bankdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C63E760-1472-4886-A2AC-13040AD9F505}|BankProjectCore\\BankProjectCore.csproj|c:\\users\\venka\\wiprodata\\bankprojectcore\\bankprojectcore\\controllers\\bankcustomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C63E760-1472-4886-A2AC-13040AD9F505}|BankProjectCore\\BankProjectCore.csproj|solutionrelative:bankprojectcore\\controllers\\bankcustomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C63E760-1472-4886-A2AC-13040AD9F505}|BankProjectCore\\BankProjectCore.csproj|c:\\users\\venka\\wiprodata\\bankprojectcore\\bankprojectcore\\middleware\\sendmail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C63E760-1472-4886-A2AC-13040AD9F505}|BankProjectCore\\BankProjectCore.csproj|solutionrelative:bankprojectcore\\middleware\\sendmail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C63E760-1472-4886-A2AC-13040AD9F505}|BankProjectCore\\BankProjectCore.csproj|c:\\users\\venka\\wiprodata\\bankprojectcore\\bankprojectcore\\middleware\\encryptionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C63E760-1472-4886-A2AC-13040AD9F505}|BankProjectCore\\BankProjectCore.csproj|solutionrelative:bankprojectcore\\middleware\\encryptionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C63E760-1472-4886-A2AC-13040AD9F505}|BankProjectCore\\BankProjectCore.csproj|c:\\users\\venka\\wiprodata\\bankprojectcore\\bankprojectcore\\models\\trans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C63E760-1472-4886-A2AC-13040AD9F505}|BankProjectCore\\BankProjectCore.csproj|solutionrelative:bankprojectcore\\models\\trans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginsController.cs",
+              "DocumentMoniker": "C:\\Users\\venka\\WiproData\\BankProjectCore\\BankProjectCore\\Controllers\\LoginsController.cs",
+              "RelativeDocumentMoniker": "BankProjectCore\\Controllers\\LoginsController.cs",
+              "ToolTip": "C:\\Users\\venka\\WiproData\\BankProjectCore\\BankProjectCore\\Controllers\\LoginsController.cs",
+              "RelativeToolTip": "BankProjectCore\\Controllers\\LoginsController.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAkwFkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T10:01:40.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\venka\\WiproData\\BankProjectCore\\BankProjectCore\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "BankProjectCore\\Models\\Login.cs",
+              "ToolTip": "C:\\Users\\venka\\WiproData\\BankProjectCore\\BankProjectCore\\Models\\Login.cs",
+              "RelativeToolTip": "BankProjectCore\\Models\\Login.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T12:15:06.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BankDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\venka\\WiproData\\BankProjectCore\\BankProjectCore\\Models\\BankDbContext.cs",
+              "RelativeDocumentMoniker": "BankProjectCore\\Models\\BankDbContext.cs",
+              "ToolTip": "C:\\Users\\venka\\WiproData\\BankProjectCore\\BankProjectCore\\Models\\BankDbContext.cs",
+              "RelativeToolTip": "BankProjectCore\\Models\\BankDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T12:14:55.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EncryptionHelper.cs",
+              "DocumentMoniker": "C:\\Users\\venka\\WiproData\\BankProjectCore\\BankProjectCore\\Middleware\\EncryptionHelper.cs",
+              "RelativeDocumentMoniker": "BankProjectCore\\Middleware\\EncryptionHelper.cs",
+              "ToolTip": "C:\\Users\\venka\\WiproData\\BankProjectCore\\BankProjectCore\\Middleware\\EncryptionHelper.cs",
+              "RelativeToolTip": "BankProjectCore\\Middleware\\EncryptionHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T11:48:03.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SendMail.cs",
+              "DocumentMoniker": "C:\\Users\\venka\\WiproData\\BankProjectCore\\BankProjectCore\\Middleware\\SendMail.cs",
+              "RelativeDocumentMoniker": "BankProjectCore\\Middleware\\SendMail.cs",
+              "ToolTip": "C:\\Users\\venka\\WiproData\\BankProjectCore\\BankProjectCore\\Middleware\\SendMail.cs",
+              "RelativeToolTip": "BankProjectCore\\Middleware\\SendMail.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAADwvyEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T11:47:13.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BankCustomController.cs",
+              "DocumentMoniker": "C:\\Users\\venka\\WiproData\\BankProjectCore\\BankProjectCore\\Controllers\\BankCustomController.cs",
+              "RelativeDocumentMoniker": "BankProjectCore\\Controllers\\BankCustomController.cs",
+              "ToolTip": "C:\\Users\\venka\\WiproData\\BankProjectCore\\BankProjectCore\\Controllers\\BankCustomController.cs",
+              "RelativeToolTip": "BankProjectCore\\Controllers\\BankCustomController.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAiwFMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T07:51:59.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Trans.cs",
+              "DocumentMoniker": "C:\\Users\\venka\\WiproData\\BankProjectCore\\BankProjectCore\\Models\\Trans.cs",
+              "RelativeDocumentMoniker": "BankProjectCore\\Models\\Trans.cs",
+              "ToolTip": "C:\\Users\\venka\\WiproData\\BankProjectCore\\BankProjectCore\\Models\\Trans.cs",
+              "RelativeToolTip": "BankProjectCore\\Models\\Trans.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T07:37:40.61Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

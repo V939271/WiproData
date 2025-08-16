@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\cms-solution\\backend\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD17E5BB-21A4-4A3B-97EE-573B283497FF}|WebApplication1\\WebApplication1.csproj|e:\\cms-solution\\backend\\webapplication1\\webapplication1\\controllers\\walletscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD17E5BB-21A4-4A3B-97EE-573B283497FF}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\walletscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD17E5BB-21A4-4A3B-97EE-573B283497FF}|WebApplication1\\WebApplication1.csproj|e:\\cms-solution\\backend\\webapplication1\\webapplication1\\models\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD17E5BB-21A4-4A3B-97EE-573B283497FF}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD17E5BB-21A4-4A3B-97EE-573B283497FF}|WebApplication1\\WebApplication1.csproj|e:\\cms-solution\\backend\\webapplication1\\webapplication1\\models\\cmsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD17E5BB-21A4-4A3B-97EE-573B283497FF}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\cmsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD17E5BB-21A4-4A3B-97EE-573B283497FF}|WebApplication1\\WebApplication1.csproj|e:\\cms-solution\\backend\\webapplication1\\webapplication1\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD17E5BB-21A4-4A3B-97EE-573B283497FF}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD17E5BB-21A4-4A3B-97EE-573B283497FF}|WebApplication1\\WebApplication1.csproj|e:\\cms-solution\\backend\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD17E5BB-21A4-4A3B-97EE-573B283497FF}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD17E5BB-21A4-4A3B-97EE-573B283497FF}|WebApplication1\\WebApplication1.csproj|e:\\cms-solution\\backend\\webapplication1\\webapplication1\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD17E5BB-21A4-4A3B-97EE-573B283497FF}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD17E5BB-21A4-4A3B-97EE-573B283497FF}|WebApplication1\\WebApplication1.csproj|e:\\cms-solution\\backend\\webapplication1\\webapplication1\\middleware\\encryptionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD17E5BB-21A4-4A3B-97EE-573B283497FF}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\middleware\\encryptionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD17E5BB-21A4-4A3B-97EE-573B283497FF}|WebApplication1\\WebApplication1.csproj|e:\\cms-solution\\backend\\webapplication1\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AD17E5BB-21A4-4A3B-97EE-573B283497FF}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WalletsController.cs",
+              "DocumentMoniker": "E:\\cms-solution\\backend\\WebApplication1\\WebApplication1\\Controllers\\WalletsController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\WalletsController.cs",
+              "ToolTip": "E:\\cms-solution\\backend\\WebApplication1\\WebApplication1\\Controllers\\WalletsController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\WalletsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T11:51:42.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Wallet.cs",
+              "DocumentMoniker": "E:\\cms-solution\\backend\\WebApplication1\\WebApplication1\\Models\\Wallet.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Wallet.cs",
+              "ToolTip": "E:\\cms-solution\\backend\\WebApplication1\\WebApplication1\\Models\\Wallet.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Wallet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T11:48:40.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "E:\\cms-solution\\backend\\WebApplication1\\WebApplication1\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\CustomersController.cs",
+              "ToolTip": "E:\\cms-solution\\backend\\WebApplication1\\WebApplication1\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\CustomersController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAqwCMAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T06:53:56.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CmsDbContext.cs",
+              "DocumentMoniker": "E:\\cms-solution\\backend\\WebApplication1\\WebApplication1\\Models\\CmsDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\CmsDbContext.cs",
+              "ToolTip": "E:\\cms-solution\\backend\\WebApplication1\\WebApplication1\\Models\\CmsDbContext.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\CmsDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T06:44:51.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "E:\\cms-solution\\backend\\WebApplication1\\WebApplication1\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Customer.cs",
+              "ToolTip": "E:\\cms-solution\\backend\\WebApplication1\\WebApplication1\\Models\\Customer.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T06:42:15.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\cms-solution\\backend\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "E:\\cms-solution\\backend\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T06:56:50.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EncryptionHelper.cs",
+              "DocumentMoniker": "E:\\cms-solution\\backend\\WebApplication1\\WebApplication1\\Middleware\\EncryptionHelper.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Middleware\\EncryptionHelper.cs",
+              "ToolTip": "E:\\cms-solution\\backend\\WebApplication1\\WebApplication1\\Middleware\\EncryptionHelper.cs",
+              "RelativeToolTip": "WebApplication1\\Middleware\\EncryptionHelper.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T06:46:33.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\cms-solution\\backend\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "E:\\cms-solution\\backend\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-16T06:38:04.981Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

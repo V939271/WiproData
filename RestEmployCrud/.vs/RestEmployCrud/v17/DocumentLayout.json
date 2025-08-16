@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\RestEmployCrud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4172425D-0952-45B9-A8A9-B421BBAD3725}|RestEmployCrud\\RestEmployCrud.csproj|e:\\restemploycrud\\restemploycrud\\controllers\\employscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4172425D-0952-45B9-A8A9-B421BBAD3725}|RestEmployCrud\\RestEmployCrud.csproj|solutionrelative:restemploycrud\\controllers\\employscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4172425D-0952-45B9-A8A9-B421BBAD3725}|RestEmployCrud\\RestEmployCrud.csproj|e:\\restemploycrud\\restemploycrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4172425D-0952-45B9-A8A9-B421BBAD3725}|RestEmployCrud\\RestEmployCrud.csproj|solutionrelative:restemploycrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4172425D-0952-45B9-A8A9-B421BBAD3725}|RestEmployCrud\\RestEmployCrud.csproj|e:\\restemploycrud\\restemploycrud\\models\\employdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4172425D-0952-45B9-A8A9-B421BBAD3725}|RestEmployCrud\\RestEmployCrud.csproj|solutionrelative:restemploycrud\\models\\employdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4172425D-0952-45B9-A8A9-B421BBAD3725}|RestEmployCrud\\RestEmployCrud.csproj|e:\\restemploycrud\\restemploycrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4172425D-0952-45B9-A8A9-B421BBAD3725}|RestEmployCrud\\RestEmployCrud.csproj|solutionrelative:restemploycrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4172425D-0952-45B9-A8A9-B421BBAD3725}|RestEmployCrud\\RestEmployCrud.csproj|e:\\restemploycrud\\restemploycrud\\models\\employ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4172425D-0952-45B9-A8A9-B421BBAD3725}|RestEmployCrud\\RestEmployCrud.csproj|solutionrelative:restemploycrud\\models\\employ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\RestEmployCrud\\RestEmployCrud\\Program.cs",
+              "RelativeDocumentMoniker": "RestEmployCrud\\Program.cs",
+              "ToolTip": "E:\\RestEmployCrud\\RestEmployCrud\\Program.cs",
+              "RelativeToolTip": "RestEmployCrud\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T06:41:30.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmploysController.cs",
+              "DocumentMoniker": "E:\\RestEmployCrud\\RestEmployCrud\\Controllers\\EmploysController.cs",
+              "RelativeDocumentMoniker": "RestEmployCrud\\Controllers\\EmploysController.cs",
+              "ToolTip": "E:\\RestEmployCrud\\RestEmployCrud\\Controllers\\EmploysController.cs",
+              "RelativeToolTip": "RestEmployCrud\\Controllers\\EmploysController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwCkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T06:32:52.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\RestEmployCrud\\RestEmployCrud\\appsettings.json",
+              "RelativeDocumentMoniker": "RestEmployCrud\\appsettings.json",
+              "ToolTip": "E:\\RestEmployCrud\\RestEmployCrud\\appsettings.json",
+              "RelativeToolTip": "RestEmployCrud\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-13T06:30:41.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployDbContext.cs",
+              "DocumentMoniker": "E:\\RestEmployCrud\\RestEmployCrud\\Models\\EmployDbContext.cs",
+              "RelativeDocumentMoniker": "RestEmployCrud\\Models\\EmployDbContext.cs",
+              "ToolTip": "E:\\RestEmployCrud\\RestEmployCrud\\Models\\EmployDbContext.cs",
+              "RelativeToolTip": "RestEmployCrud\\Models\\EmployDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T06:27:52.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employ.cs",
+              "DocumentMoniker": "E:\\RestEmployCrud\\RestEmployCrud\\Models\\Employ.cs",
+              "RelativeDocumentMoniker": "RestEmployCrud\\Models\\Employ.cs",
+              "ToolTip": "E:\\RestEmployCrud\\RestEmployCrud\\Models\\Employ.cs",
+              "RelativeToolTip": "RestEmployCrud\\Models\\Employ.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T06:27:31.018Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

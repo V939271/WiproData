@@ -1,0 +1,46 @@
+﻿@page
+@model RajorExamples.Pages.Employs.EditModel
+@{
+}
+<h4>Employ</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Employ.Empno" />
+            <div class="form-group">
+                <label asp-for="Employ.Name" class="control-label"></label>
+                <input asp-for="Employ.Name" class="form-control" />
+                <span asp-validation-for="Employ.Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Employ.Gender" class="control-label"></label>
+                <input asp-for="Employ.Gender" class="form-control" />
+                <span asp-validation-for="Employ.Gender" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Employ.Dept" class="control-label"></label>
+                <input asp-for="Employ.Dept" class="form-control" />
+                <span asp-validation-for="Employ.Dept" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Employ.Desig" class="control-label"></label>
+                <input asp-for="Employ.Desig" class="form-control" />
+                <span asp-validation-for="Employ.Desig" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Employ.Basic" class="control-label"></label>
+                <input asp-for="Employ.Basic" class="form-control" />
+                <span asp-validation-for="Employ.Basic" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Update" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="./Index">Back to List</a>
+</div>

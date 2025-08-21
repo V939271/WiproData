@@ -1,0 +1,33 @@
+﻿@model MvcDemoCore.Models.Employ
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<h2>Details</h2>
+
+<fieldset>
+    <legend>Employ Info</legend>
+
+    <div class="display-label">
+        @Html.DisplayNameFor(model => model.Empno)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Empno)
+    </div>
+
+    <div class="display-label">
+        @Html.DisplayNameFor(model => model.Name)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Name)
+    </div>
+    <div class="display-label">
+        @Html.DisplayNameFor(model => model.Basic)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Basic)
+    </div>
+
+</fieldset>

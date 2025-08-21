@@ -1,0 +1,33 @@
+﻿﻿
+@model IEnumerable<MvcDemoCore.Models.Employ>
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<h2>Index</h2>
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<div>
+    @foreach (var employ in ViewBag.employs)
+    {
+        <h3>
+            Employ No : <b>@Html.Raw(employ.Empno) </b><br />
+            Employ Name : @Html.Raw(employ.Name) <br/> 
+            Salary : <b> @Html.Raw(employ.Basic) </b> <br/>
+            @Html.ActionLink("Edit", "Edit", new { id = employ.Empno }) |
+            @Html.ActionLink("Search", "Search", new
+                {
+                    id =
+                     employ.Empno
+                }) |
+            @Html.ActionLink("Delete", "Delete", new
+                {
+                    id =
+                     employ.Empno 
+                })
+
+        </h3>
+    }
+</div>

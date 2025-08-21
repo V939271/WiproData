@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Day-19(1)\\MvcAdoEmployCrud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{782515F0-00C8-47FE-AE4C-2321FA04AF3C}|MvcAdoEmployCrud\\MvcAdoEmployCrud.csproj|e:\\day-19(1)\\mvcadoemploycrud\\mvcadoemploycrud\\controllers\\employscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{782515F0-00C8-47FE-AE4C-2321FA04AF3C}|MvcAdoEmployCrud\\MvcAdoEmployCrud.csproj|solutionrelative:mvcadoemploycrud\\controllers\\employscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{782515F0-00C8-47FE-AE4C-2321FA04AF3C}|MvcAdoEmployCrud\\MvcAdoEmployCrud.csproj|e:\\day-19(1)\\mvcadoemploycrud\\mvcadoemploycrud\\views\\employs\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{782515F0-00C8-47FE-AE4C-2321FA04AF3C}|MvcAdoEmployCrud\\MvcAdoEmployCrud.csproj|solutionrelative:mvcadoemploycrud\\views\\employs\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{782515F0-00C8-47FE-AE4C-2321FA04AF3C}|MvcAdoEmployCrud\\MvcAdoEmployCrud.csproj|e:\\day-19(1)\\mvcadoemploycrud\\mvcadoemploycrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{782515F0-00C8-47FE-AE4C-2321FA04AF3C}|MvcAdoEmployCrud\\MvcAdoEmployCrud.csproj|solutionrelative:mvcadoemploycrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{782515F0-00C8-47FE-AE4C-2321FA04AF3C}|MvcAdoEmployCrud\\MvcAdoEmployCrud.csproj|e:\\day-19(1)\\mvcadoemploycrud\\mvcadoemploycrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{782515F0-00C8-47FE-AE4C-2321FA04AF3C}|MvcAdoEmployCrud\\MvcAdoEmployCrud.csproj|solutionrelative:mvcadoemploycrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{782515F0-00C8-47FE-AE4C-2321FA04AF3C}|MvcAdoEmployCrud\\MvcAdoEmployCrud.csproj|e:\\day-19(1)\\mvcadoemploycrud\\mvcadoemploycrud\\views\\employs\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{782515F0-00C8-47FE-AE4C-2321FA04AF3C}|MvcAdoEmployCrud\\MvcAdoEmployCrud.csproj|solutionrelative:mvcadoemploycrud\\views\\employs\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{782515F0-00C8-47FE-AE4C-2321FA04AF3C}|MvcAdoEmployCrud\\MvcAdoEmployCrud.csproj|e:\\day-19(1)\\mvcadoemploycrud\\mvcadoemploycrud\\views\\employs\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{782515F0-00C8-47FE-AE4C-2321FA04AF3C}|MvcAdoEmployCrud\\MvcAdoEmployCrud.csproj|solutionrelative:mvcadoemploycrud\\views\\employs\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{782515F0-00C8-47FE-AE4C-2321FA04AF3C}|MvcAdoEmployCrud\\MvcAdoEmployCrud.csproj|e:\\day-19(1)\\mvcadoemploycrud\\mvcadoemploycrud\\views\\employs\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{782515F0-00C8-47FE-AE4C-2321FA04AF3C}|MvcAdoEmployCrud\\MvcAdoEmployCrud.csproj|solutionrelative:mvcadoemploycrud\\views\\employs\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{782515F0-00C8-47FE-AE4C-2321FA04AF3C}|MvcAdoEmployCrud\\MvcAdoEmployCrud.csproj|e:\\day-19(1)\\mvcadoemploycrud\\mvcadoemploycrud\\views\\employs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{782515F0-00C8-47FE-AE4C-2321FA04AF3C}|MvcAdoEmployCrud\\MvcAdoEmployCrud.csproj|solutionrelative:mvcadoemploycrud\\views\\employs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{782515F0-00C8-47FE-AE4C-2321FA04AF3C}|MvcAdoEmployCrud\\MvcAdoEmployCrud.csproj|e:\\day-19(1)\\mvcadoemploycrud\\mvcadoemploycrud\\models\\efcoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{782515F0-00C8-47FE-AE4C-2321FA04AF3C}|MvcAdoEmployCrud\\MvcAdoEmployCrud.csproj|solutionrelative:mvcadoemploycrud\\models\\efcoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{782515F0-00C8-47FE-AE4C-2321FA04AF3C}|MvcAdoEmployCrud\\MvcAdoEmployCrud.csproj|e:\\day-19(1)\\mvcadoemploycrud\\mvcadoemploycrud\\models\\employ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{782515F0-00C8-47FE-AE4C-2321FA04AF3C}|MvcAdoEmployCrud\\MvcAdoEmployCrud.csproj|solutionrelative:mvcadoemploycrud\\models\\employ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmploysController.cs",
+              "DocumentMoniker": "E:\\Day-19(1)\\MvcAdoEmployCrud\\MvcAdoEmployCrud\\Controllers\\EmploysController.cs",
+              "RelativeDocumentMoniker": "MvcAdoEmployCrud\\Controllers\\EmploysController.cs",
+              "ToolTip": "E:\\Day-19(1)\\MvcAdoEmployCrud\\MvcAdoEmployCrud\\Controllers\\EmploysController.cs",
+              "RelativeToolTip": "MvcAdoEmployCrud\\Controllers\\EmploysController.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAkwKkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T10:08:38.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Day-19(1)\\MvcAdoEmployCrud\\MvcAdoEmployCrud\\Program.cs",
+              "RelativeDocumentMoniker": "MvcAdoEmployCrud\\Program.cs",
+              "ToolTip": "E:\\Day-19(1)\\MvcAdoEmployCrud\\MvcAdoEmployCrud\\Program.cs",
+              "RelativeToolTip": "MvcAdoEmployCrud\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwCAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T10:06:47.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Day-19(1)\\MvcAdoEmployCrud\\MvcAdoEmployCrud\\appsettings.json",
+              "RelativeDocumentMoniker": "MvcAdoEmployCrud\\appsettings.json",
+              "ToolTip": "E:\\Day-19(1)\\MvcAdoEmployCrud\\MvcAdoEmployCrud\\appsettings.json",
+              "RelativeToolTip": "MvcAdoEmployCrud\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-19T10:06:04.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\Day-19(1)\\MvcAdoEmployCrud\\MvcAdoEmployCrud\\Views\\Employs\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MvcAdoEmployCrud\\Views\\Employs\\Edit.cshtml",
+              "ToolTip": "E:\\Day-19(1)\\MvcAdoEmployCrud\\MvcAdoEmployCrud\\Views\\Employs\\Edit.cshtml",
+              "RelativeToolTip": "MvcAdoEmployCrud\\Views\\Employs\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-19T10:03:26.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\Day-19(1)\\MvcAdoEmployCrud\\MvcAdoEmployCrud\\Views\\Employs\\Create.cshtml",
+              "RelativeDocumentMoniker": "MvcAdoEmployCrud\\Views\\Employs\\Create.cshtml",
+              "ToolTip": "E:\\Day-19(1)\\MvcAdoEmployCrud\\MvcAdoEmployCrud\\Views\\Employs\\Create.cshtml",
+              "RelativeToolTip": "MvcAdoEmployCrud\\Views\\Employs\\Create.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-19T10:02:28.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Day-19(1)\\MvcAdoEmployCrud\\MvcAdoEmployCrud\\Views\\Employs\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcAdoEmployCrud\\Views\\Employs\\Index.cshtml",
+              "ToolTip": "E:\\Day-19(1)\\MvcAdoEmployCrud\\MvcAdoEmployCrud\\Views\\Employs\\Index.cshtml",
+              "RelativeToolTip": "MvcAdoEmployCrud\\Views\\Employs\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-19T10:03:41.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\Day-19(1)\\MvcAdoEmployCrud\\MvcAdoEmployCrud\\Views\\Employs\\Details.cshtml",
+              "RelativeDocumentMoniker": "MvcAdoEmployCrud\\Views\\Employs\\Details.cshtml",
+              "ToolTip": "E:\\Day-19(1)\\MvcAdoEmployCrud\\MvcAdoEmployCrud\\Views\\Employs\\Details.cshtml",
+              "RelativeToolTip": "MvcAdoEmployCrud\\Views\\Employs\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-19T10:03:09.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\Day-19(1)\\MvcAdoEmployCrud\\MvcAdoEmployCrud\\Views\\Employs\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MvcAdoEmployCrud\\Views\\Employs\\Delete.cshtml",
+              "ToolTip": "E:\\Day-19(1)\\MvcAdoEmployCrud\\MvcAdoEmployCrud\\Views\\Employs\\Delete.cshtml",
+              "RelativeToolTip": "MvcAdoEmployCrud\\Views\\Employs\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-19T10:02:54.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EFCoreDbContext.cs",
+              "DocumentMoniker": "E:\\Day-19(1)\\MvcAdoEmployCrud\\MvcAdoEmployCrud\\Models\\EFCoreDbContext.cs",
+              "RelativeDocumentMoniker": "MvcAdoEmployCrud\\Models\\EFCoreDbContext.cs",
+              "ToolTip": "E:\\Day-19(1)\\MvcAdoEmployCrud\\MvcAdoEmployCrud\\Models\\EFCoreDbContext.cs",
+              "RelativeToolTip": "MvcAdoEmployCrud\\Models\\EFCoreDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T09:58:59.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Employ.cs",
+              "DocumentMoniker": "E:\\Day-19(1)\\MvcAdoEmployCrud\\MvcAdoEmployCrud\\Models\\Employ.cs",
+              "RelativeDocumentMoniker": "MvcAdoEmployCrud\\Models\\Employ.cs",
+              "ToolTip": "E:\\Day-19(1)\\MvcAdoEmployCrud\\MvcAdoEmployCrud\\Models\\Employ.cs",
+              "RelativeToolTip": "MvcAdoEmployCrud\\Models\\Employ.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T09:58:23.149Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

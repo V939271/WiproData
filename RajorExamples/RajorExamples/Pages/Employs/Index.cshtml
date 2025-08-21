@@ -1,0 +1,41 @@
+﻿@page
+@model RajorExamples.Pages.Employs.IndexModel
+
+<h2>CRUD Operations</h2>
+
+<p>
+    <a asp-page="./Create" class="btn btn-primary">Create New Employee</a>
+</p>
+
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>Emp No</th>
+            <th>Name</th>
+            <th>Gender</th>
+            <th>Dept</th>
+            <th>Designation</th>
+            <th>Basic</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Employ)
+        {
+            <tr>
+                <td>@item.Empno</td>
+                <td>@item.Name</td>
+                <td>@item.Gender</td>
+                <td>@item.Dept</td>
+                <td>@item.Desig</td>
+                <td>@item.Basic</td>
+                <td>
+                    <a asp-page="./Edit" asp-route-id="@item.Empno">Edit</a> |
+                    <a asp-page="./Details" asp-route-id="@item.Empno">Details</a> |
+                    <a asp-page="./Delete" asp-route-id="@item.Empno">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

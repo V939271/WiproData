@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\RajorExamples\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B84E1DFA-2ED0-4028-AEAE-FBA831FCCBF5}|RajorExamples\\RajorExamples.csproj|e:\\rajorexamples\\rajorexamples\\pages\\employs\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B84E1DFA-2ED0-4028-AEAE-FBA831FCCBF5}|RajorExamples\\RajorExamples.csproj|solutionrelative:rajorexamples\\pages\\employs\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B84E1DFA-2ED0-4028-AEAE-FBA831FCCBF5}|RajorExamples\\RajorExamples.csproj|e:\\rajorexamples\\rajorexamples\\pages\\newemploys\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B84E1DFA-2ED0-4028-AEAE-FBA831FCCBF5}|RajorExamples\\RajorExamples.csproj|solutionrelative:rajorexamples\\pages\\newemploys\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B84E1DFA-2ED0-4028-AEAE-FBA831FCCBF5}|RajorExamples\\RajorExamples.csproj|e:\\rajorexamples\\rajorexamples\\pages\\newemploys\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B84E1DFA-2ED0-4028-AEAE-FBA831FCCBF5}|RajorExamples\\RajorExamples.csproj|solutionrelative:rajorexamples\\pages\\newemploys\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B84E1DFA-2ED0-4028-AEAE-FBA831FCCBF5}|RajorExamples\\RajorExamples.csproj|e:\\rajorexamples\\rajorexamples\\pages\\newemploys\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B84E1DFA-2ED0-4028-AEAE-FBA831FCCBF5}|RajorExamples\\RajorExamples.csproj|solutionrelative:rajorexamples\\pages\\newemploys\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B84E1DFA-2ED0-4028-AEAE-FBA831FCCBF5}|RajorExamples\\RajorExamples.csproj|e:\\rajorexamples\\rajorexamples\\pages\\newemploys\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B84E1DFA-2ED0-4028-AEAE-FBA831FCCBF5}|RajorExamples\\RajorExamples.csproj|solutionrelative:rajorexamples\\pages\\newemploys\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B84E1DFA-2ED0-4028-AEAE-FBA831FCCBF5}|RajorExamples\\RajorExamples.csproj|e:\\rajorexamples\\rajorexamples\\pages\\newemploys\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B84E1DFA-2ED0-4028-AEAE-FBA831FCCBF5}|RajorExamples\\RajorExamples.csproj|solutionrelative:rajorexamples\\pages\\newemploys\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B84E1DFA-2ED0-4028-AEAE-FBA831FCCBF5}|RajorExamples\\RajorExamples.csproj|e:\\rajorexamples\\rajorexamples\\pages\\newemploys\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B84E1DFA-2ED0-4028-AEAE-FBA831FCCBF5}|RajorExamples\\RajorExamples.csproj|solutionrelative:rajorexamples\\pages\\newemploys\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B84E1DFA-2ED0-4028-AEAE-FBA831FCCBF5}|RajorExamples\\RajorExamples.csproj|e:\\rajorexamples\\rajorexamples\\pages\\newemploys\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B84E1DFA-2ED0-4028-AEAE-FBA831FCCBF5}|RajorExamples\\RajorExamples.csproj|solutionrelative:rajorexamples\\pages\\newemploys\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B84E1DFA-2ED0-4028-AEAE-FBA831FCCBF5}|RajorExamples\\RajorExamples.csproj|e:\\rajorexamples\\rajorexamples\\pages\\newemploys\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B84E1DFA-2ED0-4028-AEAE-FBA831FCCBF5}|RajorExamples\\RajorExamples.csproj|solutionrelative:rajorexamples\\pages\\newemploys\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B84E1DFA-2ED0-4028-AEAE-FBA831FCCBF5}|RajorExamples\\RajorExamples.csproj|e:\\rajorexamples\\rajorexamples\\pages\\newemploys\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B84E1DFA-2ED0-4028-AEAE-FBA831FCCBF5}|RajorExamples\\RajorExamples.csproj|solutionrelative:rajorexamples\\pages\\newemploys\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B84E1DFA-2ED0-4028-AEAE-FBA831FCCBF5}|RajorExamples\\RajorExamples.csproj|e:\\rajorexamples\\rajorexamples\\pages\\newemploys\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B84E1DFA-2ED0-4028-AEAE-FBA831FCCBF5}|RajorExamples\\RajorExamples.csproj|solutionrelative:rajorexamples\\pages\\newemploys\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B84E1DFA-2ED0-4028-AEAE-FBA831FCCBF5}|RajorExamples\\RajorExamples.csproj|e:\\rajorexamples\\rajorexamples\\pages\\employs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B84E1DFA-2ED0-4028-AEAE-FBA831FCCBF5}|RajorExamples\\RajorExamples.csproj|solutionrelative:rajorexamples\\pages\\employs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B84E1DFA-2ED0-4028-AEAE-FBA831FCCBF5}|RajorExamples\\RajorExamples.csproj|e:\\rajorexamples\\rajorexamples\\pages\\employs\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B84E1DFA-2ED0-4028-AEAE-FBA831FCCBF5}|RajorExamples\\RajorExamples.csproj|solutionrelative:rajorexamples\\pages\\employs\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "E:\\RajorExamples\\RajorExamples\\Pages\\NewEmploys\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "RajorExamples\\Pages\\NewEmploys\\Index.cshtml.cs",
+              "ToolTip": "E:\\RajorExamples\\RajorExamples\\Pages\\NewEmploys\\Index.cshtml.cs",
+              "RelativeToolTip": "RajorExamples\\Pages\\NewEmploys\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T10:21:18.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\RajorExamples\\RajorExamples\\Pages\\NewEmploys\\Index.cshtml",
+              "RelativeDocumentMoniker": "RajorExamples\\Pages\\NewEmploys\\Index.cshtml",
+              "ToolTip": "E:\\RajorExamples\\RajorExamples\\Pages\\NewEmploys\\Index.cshtml",
+              "RelativeToolTip": "RajorExamples\\Pages\\NewEmploys\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T10:21:18.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "E:\\RajorExamples\\RajorExamples\\Pages\\NewEmploys\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "RajorExamples\\Pages\\NewEmploys\\Delete.cshtml.cs",
+              "ToolTip": "E:\\RajorExamples\\RajorExamples\\Pages\\NewEmploys\\Delete.cshtml.cs",
+              "RelativeToolTip": "RajorExamples\\Pages\\NewEmploys\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T10:21:17.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\RajorExamples\\RajorExamples\\Pages\\NewEmploys\\Delete.cshtml",
+              "RelativeDocumentMoniker": "RajorExamples\\Pages\\NewEmploys\\Delete.cshtml",
+              "ToolTip": "E:\\RajorExamples\\RajorExamples\\Pages\\NewEmploys\\Delete.cshtml",
+              "RelativeToolTip": "RajorExamples\\Pages\\NewEmploys\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T10:21:17.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "E:\\RajorExamples\\RajorExamples\\Pages\\Employs\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "RajorExamples\\Pages\\Employs\\Delete.cshtml.cs",
+              "ToolTip": "E:\\RajorExamples\\RajorExamples\\Pages\\Employs\\Delete.cshtml.cs",
+              "RelativeToolTip": "RajorExamples\\Pages\\Employs\\Delete.cshtml.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAzwCsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T07:00:14.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "E:\\RajorExamples\\RajorExamples\\Pages\\NewEmploys\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "RajorExamples\\Pages\\NewEmploys\\Details.cshtml.cs",
+              "ToolTip": "E:\\RajorExamples\\RajorExamples\\Pages\\NewEmploys\\Details.cshtml.cs",
+              "RelativeToolTip": "RajorExamples\\Pages\\NewEmploys\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T10:21:17.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\RajorExamples\\RajorExamples\\Pages\\NewEmploys\\Details.cshtml",
+              "RelativeDocumentMoniker": "RajorExamples\\Pages\\NewEmploys\\Details.cshtml",
+              "ToolTip": "E:\\RajorExamples\\RajorExamples\\Pages\\NewEmploys\\Details.cshtml",
+              "RelativeToolTip": "RajorExamples\\Pages\\NewEmploys\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T10:21:16.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "E:\\RajorExamples\\RajorExamples\\Pages\\NewEmploys\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "RajorExamples\\Pages\\NewEmploys\\Edit.cshtml.cs",
+              "ToolTip": "E:\\RajorExamples\\RajorExamples\\Pages\\NewEmploys\\Edit.cshtml.cs",
+              "RelativeToolTip": "RajorExamples\\Pages\\NewEmploys\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T10:21:16.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\RajorExamples\\RajorExamples\\Pages\\NewEmploys\\Edit.cshtml",
+              "RelativeDocumentMoniker": "RajorExamples\\Pages\\NewEmploys\\Edit.cshtml",
+              "ToolTip": "E:\\RajorExamples\\RajorExamples\\Pages\\NewEmploys\\Edit.cshtml",
+              "RelativeToolTip": "RajorExamples\\Pages\\NewEmploys\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T10:21:16.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "E:\\RajorExamples\\RajorExamples\\Pages\\NewEmploys\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "RajorExamples\\Pages\\NewEmploys\\Create.cshtml.cs",
+              "ToolTip": "E:\\RajorExamples\\RajorExamples\\Pages\\NewEmploys\\Create.cshtml.cs",
+              "RelativeToolTip": "RajorExamples\\Pages\\NewEmploys\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T10:21:15.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\RajorExamples\\RajorExamples\\Pages\\NewEmploys\\Create.cshtml",
+              "RelativeDocumentMoniker": "RajorExamples\\Pages\\NewEmploys\\Create.cshtml",
+              "ToolTip": "E:\\RajorExamples\\RajorExamples\\Pages\\NewEmploys\\Create.cshtml",
+              "RelativeToolTip": "RajorExamples\\Pages\\NewEmploys\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T10:21:15.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\RajorExamples\\RajorExamples\\Pages\\Employs\\Index.cshtml",
+              "RelativeDocumentMoniker": "RajorExamples\\Pages\\Employs\\Index.cshtml",
+              "ToolTip": "E:\\RajorExamples\\RajorExamples\\Pages\\Employs\\Index.cshtml",
+              "RelativeToolTip": "RajorExamples\\Pages\\Employs\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T07:36:44.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\RajorExamples\\RajorExamples\\Pages\\Employs\\Delete.cshtml",
+              "RelativeDocumentMoniker": "RajorExamples\\Pages\\Employs\\Delete.cshtml",
+              "ToolTip": "E:\\RajorExamples\\RajorExamples\\Pages\\Employs\\Delete.cshtml",
+              "RelativeToolTip": "RajorExamples\\Pages\\Employs\\Delete.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAIwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T06:58:56.701Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
